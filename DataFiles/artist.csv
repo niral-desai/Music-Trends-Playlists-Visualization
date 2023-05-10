@@ -1,0 +1,7016 @@
+artist_id,artist_name,user_id,artist_popularity,followers
+1,Otis Rush,1001,41,139523
+2,Clarence Gatemouth Brown,1002,33,72965
+3,Junior Wells,1003,41,139524
+4,Sonny Boy Williamson II,1004,46,196819
+5,Jimmy Reed,1005,42,149969
+6,Elmore James,1006,44,172310
+7,Magic Sam,1007,38,111219
+8,Robert Lockwood Jr.,1008,27,40119
+9,Lightnin Hopkins,1009,44,172310
+10,Willie Dixon,1010,42,149952
+11,TBone Walker,1011,44,172319
+12,Slim Harpo,1012,45,184280
+13,Jimmy Rogers,1013,40,129636
+14,Koko Taylor,1014,43,160884
+15,Otis Spann,1015,33,72978
+16,Little Walter,1016,46,196800
+17,J.B. Lenoir,1017,36,94608
+18,Muddy Waters,1018,55,335788
+19,Memphis Slim,1019,30,54917
+20,Hound Dog Taylor,1020,37,102707
+21,John Lee Hooker,1021,57,373651
+22,Son House,1022,35,86988
+23,John Hammond,1023,38,111225
+24,Big Mama Thornton,1024,44,172337
+25,Big Bill Broonzy,1025,32,66587
+26,Howlin Wolf,1026,52,283960
+27,Earl Hooker,1027,38,111189
+28,Lowell Fulson,1028,37,102707
+29,Freddie King,1029,51,267949
+30,James Cotton,1030,33,72973
+31,Champion Jack Dupree,1031,38,111188
+32,Lazy Lester,1032,29,49623
+33,Albert King,1033,49,237742
+34,The Paul Butterfield Blues Band,1034,39,120169
+35,Billy Boy Arnold,1035,28,44706
+36,Homesick James,1036,28,44690
+37,Big Walter Horton,1037,28,44713
+38,Snooks Eaglin,1038,35,86994
+39,Mississippi John Hurt,1039,41,139557
+40,J. B. Hutto,1040,28,44691
+41,Bukka White,1041,27,40104
+42,Luther Allison,1042,41,139528
+43,Johnny Shines,1043,28,44706
+44,Fenton Robinson,1044,37,102688
+45,Blind Boy Fuller,1045,28,44698
+46,Eddie Boyd,1046,27,40104
+47,Sunnyland Slim,1047,30,54911
+48,Snooky Pryor,1048,27,40117
+49,Robert Johnson,1049,44,172326
+50,Big Joe Williams,1050,29,49636
+51,Mississippi Fred McDowell,1051,34,79784
+52,Skip James,1052,33,72996
+53,Buddy Guy,1053,53,300598
+54,Lightnin Slim,1054,28,44705
+55,Charlie Musselwhite,1055,41,139561
+56,Arthur Big Boy Crudup,1056,32,66564
+57,Hubert Sumlin,1057,38,111215
+58,Jimmy Johnson,1058,32,66568
+59,Junior Wells Chicago Blues Band,1059,29,49629
+60,Tampa Red,1060,27,40097
+61,Louisiana Red,1061,29,49645
+62,Albert Collins,1062,45,184290
+63,Charley Patton,1063,27,40099
+64,Blind Willie McTell,1064,31,60552
+65,Memphis Minnie,1065,28,44703
+66,Jimmy Witherspoon,1066,34,79796
+67,R.L. Burnside,1067,44,172324
+68,Bo Diddley,1068,47,209866
+69,Blind Willie Johnson,1069,33,72975
+70,Lonnie Johnson,1070,29,49631
+71,Sonny Terry and Brownie McGhee,1071,27,40114
+72,Robert Nighthawk,1072,24,28247
+73,Sonny Terry,1073,32,66567
+74,Sonny Boy Williamson I,1074,27,40115
+75,David Honeyboy Edwards,1075,24,28234
+76,Johnny Copeland,1076,32,66591
+77,Junior Kimbrough,1077,39,120171
+78,Eddie Taylor,1078,24,28234
+79,Juke Boy Bonner,1079,29,49646
+80,Blind Lemon Jefferson,1080,28,44713
+81,Carey Bell,1081,29,49642
+82,Mance Lipscomb,1082,27,40104
+83,Jimmie Vaughan,1083,39,120167
+84,Furry Lewis,1084,27,40118
+85,Byther Smith,1085,28,44711
+86,John Mayall  The Bluesbreakers,1086,48,223510
+87,Sleepy John Estes,1087,22,21793
+88,B.B. King,1088,61,457694
+89,Pee Wee Crayton,1089,32,66580
+90,Son Seals,1090,35,86995
+91,John Mayall,1091,44,172346
+92,Leroy Carr,1092,23,24878
+93,Lead Belly,1093,39,120165
+94,Johnny Winter,1094,45,184311
+95,Mike Bloomfield,1095,38,111214
+96,Guitar Slim,1096,30,54906
+97,Melvin Taylor,1097,42,149967
+98,Little Milton,1098,37,102699
+99,William Clarke,1099,27,40120
+100,Lonnie Mack,1100,35,87000
+101,Taj Mahal,1101,54,317875
+102,Brownie McGhee,1102,31,60563
+103,Jessie Mae Hemphill,1103,29,49646
+104,Keb Mo,1104,52,283972
+105,Bo Carter,1105,27,40120
+106,Ronnie Earl,1106,35,87006
+107,Robert Cray,1107,46,196819
+108,Joe Louis Walker,1108,32,66590
+109,Lonnie Brooks,1109,29,49634
+110,Alvin Youngblood Hart,1110,29,49630
+111,Pinetop Perkins,1111,30,54900
+112,Peter Green,1112,44,172331
+113,Bessie Smith,1113,38,111192
+114,Lucky Peterson,1114,44,172318
+115,A.C. Reed,1115,28,44715
+116,Kim Wilson,1116,28,44701
+117,Elmore James And The Broom Dusters,1117,1,3
+118,Brownie McGee,1118,4,147
+119,Roy Buchanan,1119,42,149966
+120,Bobby Blue Bland,1120,47,209869
+121,The Fabulous Thunderbirds,1121,44,172346
+122,Big Joe Turner,1122,38,111191
+123,Roosevelt Sykes,1123,20,16401
+124,Mighty Joe Young,1124,35,86981
+125,The Robert Cray Band,1125,39,120174
+126,Canned Heat,1126,57,373671
+127,Rev. Gary Davis,1127,29,49645
+128,Eddy Clearwater,1128,26,35828
+129,Floyd Dixon,1129,27,40107
+130,Little Charlie  The Nightcats,1130,23,24880
+131,John Primer,1131,25,31885
+132,Duke Robillard,1132,30,54900
+133,Magic Slim,1133,34,79785
+134,Josh White,1134,22,21788
+135,Corey Harris,1135,27,40119
+136,Shemekia Copeland,1136,39,120195
+137,Jimmy Dawkins,1137,31,60550
+138,Guitar Shorty,1138,29,49640
+139,J.J. Cale,1139,60,435659
+140,Michael Burks,1140,31,60549
+141,Mississippi Sheiks,1141,19,14087
+142,Tony Joe White,1142,49,237729
+143,Professor Longhair,1143,37,102705
+144,Tommy Castro,1144,34,79773
+145,Chris Cain,1145,28,44708
+146,Stevie Ray Vaughan,1146,61,457698
+147,Sam Hopkins,1147,11,2786
+148,Robert Wilkins,1148,23,24884
+149,Sister Rosetta Tharpe,1149,39,120178
+150,Lurrie Bell,1150,27,40108
+151,Tab Benoit,1151,45,184290
+152,Eric Bibb,1152,42,149942
+153,Screamin Jay Hawkins,1153,39,120198
+154,Willie Dixon  Memphis Slim,1154,0,0
+155,TModel Ford,1155,22,21800
+156,Cephas  Wiggins,1156,18,12001
+157,Scrapper Blackwell,1157,27,40103
+158,Derek  The Dominos,1158,59,414270
+159,Blind Blake,1159,27,40121
+160,Kokomo Arnold,1160,21,18968
+161,Kenny Neal,1161,30,54925
+162,Ma Rainey,1162,28,44701
+163,Big Bill Morganfield,1163,19,14081
+164,Rory Gallagher,1164,54,317858
+165,Ry Cooder,1165,51,267940
+166,The Mannish Boys,1166,18,11998
+167,Amos Milburn,1167,34,79795
+168,Debbie Davies,1168,28,44714
+169,Tinsley Ellis,1169,35,86995
+170,Dr. John,1170,53,300614
+171,The Derek Trucks Band,1171,44,172346
+172,Eddie Cleanhead Vinson,1172,31,60545
+173,Mississippi Heat,1173,22,21802
+174,Sugar Blue,1174,26,35843
+175,Memphis Jug Band,1175,22,21792
+176,Katie Webster,1176,27,40121
+177,Curtis Salgado,1177,31,60559
+178,Doyle Bramhall,1178,34,79779
+179,Otis Taylor,1179,40,129632
+180,Dave Hole,1180,27,40111
+181,Robert Pete Williams,1181,21,18981
+182,Albert Cummings,1182,37,102700
+183,Jonny Lang,1183,46,196801
+184,Keith Richards,1184,45,184306
+185,Smokin Joe Kubek  Bnois King,1185,28,44701
+186,Coco Montoya,1186,30,54918
+187,Pink Anderson,1187,20,16400
+188,Robert Petway,1188,25,31886
+189,Odetta,1189,43,160873
+190,Ten Years After,1190,51,267911
+191,Corey Stevens,1191,27,40098
+192,C.W. Stoneking,1192,45,184317
+193,Jimmy McCracklin,1193,27,40100
+194,Victoria Spivey,1194,21,18968
+195,Deborah Coleman,1195,27,40108
+196,Jimmy Thackery,1196,30,54922
+197,Bernard Allison,1197,30,54908
+198,Henry Gray,1198,14,5691
+199,Savoy Brown,1199,44,172328
+200,Susan Tedeschi,1200,49,237714
+201,Robert Belfour,1201,21,18967
+202,Delbert McClinton,1202,46,196811
+203,Big Maceo,1203,21,18972
+204,Roomful Of Blues,1204,28,44694
+205,Barbecue Bob,1205,15,6990
+206,Casey Bill Weldon,1206,19,14088
+207,Tom Principato,1207,28,44701
+208,Henry Thomas,1208,27,40120
+209,Johnnie Johnson,1209,30,54906
+210,Larry McCray,1210,29,49647
+211,Alan Lomax,1211,27,40103
+212,Jimmy Thackery And The Drivers,1212,30,54905
+213,Albert Castiglia,1213,29,49638
+214,Jesse Fuller,1214,14,5684
+215,Sonny Landreth,1215,36,94612
+216,Omar and The Howlers,1216,34,79785
+217,Elizabeth Cotten,1217,36,94644
+218,Steve Cropper,1218,31,60547
+219,Otis Grand,1219,13,4563
+220,Doug MacLeod,1220,28,44701
+221,Ronnie Baker Brooks,1221,30,54913
+222,Bryan Lee,1222,12,3600
+223,The Blues Brothers,1223,55,335787
+224,Johnny Guitar Watson,1224,40,129607
+225,The Dead South,1225,59,414249
+226,John Mayer,1226,77,919024
+227,Daniel Norgren,1227,46,196809
+228,Eric Clapton,1228,71,720871
+229,Oli Brown,1229,27,40095
+230,Anthony Gomes,1230,30,54917
+231,Bonnie Raitt,1231,59,414239
+232,Etta James,1232,65,553539
+233,Jimi Hendrix,1233,70,690958
+234,Allman Brothers Band,1234,63,504092
+235,Cream,1235,61,457710
+236,Fleetwood Mac,1236,78,955260
+237,Lafayette Leake,1237,31,60544
+238,Clarence Carter,1238,46,196793
+239,Larry Davis,1239,30,54910
+240,Louis Jordan  His Tympany Five,1240,41,139532
+241,Mamie Smith,1241,24,28244
+242,Papa Charlie Jackson,1242,20,16408
+243,Curley Weaver,1243,19,14079
+244,Sylvester Weaver,1244,23,24874
+245,St. Louis Jimmy Oden,1245,17,10130
+246,Doctor Ross,1246,21,18972
+247,Johnnie Temple,1247,21,18970
+248,Frank Stokes,1248,18,11992
+249,Lucille Bogan,1249,25,31888
+250,James Kokomo Arnold,1250,13,4576
+251,Count Basie,1251,60,435647
+252,Big Maybelle,1252,34,79773
+253,Big Brother  The Holding Company,1253,54,317849
+254,Lucky Millinder,1254,29,49647
+255,Ruth Brown,1255,42,149965
+256,Camille Howard,1256,28,44694
+257,Irma Thomas,1257,49,237708
+258,Sugar Pie DeSanto,1258,44,172341
+259,Trixie Smith,1259,23,24867
+260,LaVern Baker,1260,40,129630
+261,Billie Holiday,1261,63,504074
+262,Memphis Minnie  Kansas Joe,1262,13,4568
+263,Brenda Lee,1263,54,317856
+264,Blue Lu Barker,1264,14,5698
+265,Sweet Emma Barrett,1265,18,12002
+266,Sippie Wallace,1266,16,8451
+267,Alberta Adams,1267,10,2107
+268,Clara Smith,1268,11,2786
+269,Judy Henske,1269,27,40111
+270,Bertha Chippie Hill,1270,10,2104
+271,Gladys Bentley,1271,8,1090
+272,Eva Taylor,1272,12,3611
+273,Ada Brown,1273,4,146
+274,Junior Parker,1274,29,49647
+275,Nina Simone,1275,67,606054
+276,Gary Clark Jr.,1276,59,414241
+277,ACDC,1277,80,1030421
+278,Jimmy Smith,1278,44,172315
+279,Sam Cooke,1279,65,553478
+280,The Rolling Stones,1280,77,919069
+281,Fats Domino,1281,55,335823
+282,The Yardbirds,1282,49,237704
+283,Dinah Washington,1283,57,373667
+284,James Brown,1284,62,480504
+285,Amythyst Kiah,1285,44,172345
+286,The War and Treaty,1286,43,160882
+287,Tyler Bryant  the Shakedown,1287,44,172318
+288,Leon Bridges,1288,71,720895
+289,Kenny Sharp,1289,19,14098
+290,Effie Zilch,1290,12,3603
+291,Tedeschi Trucks Band,1291,55,335798
+292,Drew Foust,1292,21,18971
+293,Ben Harper,1293,62,480532
+294,Bad Flamingo,1294,32,66582
+295,Michael Kiwanuka,1295,64,528396
+296,The Teskey Brothers,1296,57,373649
+297,Son Little,1297,53,300606
+298,The Revivalists,1298,57,373665
+299,Anderson East,1299,50,252535
+300,The Dip,1300,53,300594
+301,Alabama Shakes,1301,60,435634
+302,Jon Batiste,1302,57,373646
+303,Jonny P,1303,35,86976
+304,Lake Street Dive,1304,61,457744
+305,Dan Auerbach,1305,55,335811
+306,Robert Finley,1306,39,120188
+307,Liam St. John,1307,46,196806
+308,The Cold Stares,1308,44,172309
+309,Cedric Burnside,1309,38,111194
+310,St. Paul  The Broken Bones,1310,54,317854
+311,The California Honeydrops,1311,50,252500
+312,Allison Russell,1312,47,209884
+313,Million Miles,1313,31,60554
+314,North Mississippi Allstars,1314,46,196829
+315,All Them Witches,1315,52,283957
+316,Charley Crockett,1316,58,393600
+317,The Black Keys,1317,70,690967
+318,Leo Bud Welch,1318,28,44711
+319,Liz Vice,1319,37,102689
+320,Seratones,1320,36,94619
+321,War  Pierce,1321,28,44700
+322,Adia Victoria,1322,40,129637
+323,Buffalo Nichols,1323,31,60546
+324,Sam Burchfield,1324,44,172347
+325,Davie,1325,34,79798
+326,Nikki Lane,1326,48,223510
+327,Josh Teskey,1327,39,120169
+328,Christone Kingfish Ingram,1328,45,184317
+329,Valerie June,1329,51,267914
+330,Devon Gilfillian,1330,43,160886
+331,Curtis Harding,1331,54,317851
+332,Southern Avenue,1332,34,79788
+333,John Hiatt,1333,57,373648
+334,Black Pumas,1334,59,414278
+335,Jnus Meyvant,1335,42,149950
+336,Mirel Wagner,1336,28,44711
+337,Early James,1337,39,120171
+338,Benjamin Booker,1338,37,102698
+339,The Sheepdogs,1339,47,209857
+340,The Bros. Landreth,1340,37,102710
+341,The Staple Singers,1341,56,354406
+342,Luther Johnson,1342,32,66584
+343,Gary Moore,1343,59,414281
+344,Joe Bonamassa,1344,57,373674
+345,Ray Charles,1345,65,553477
+346,Pops Staples,1346,30,54924
+347,Shuggie Otis,1347,50,252534
+348,Jay McShann,1348,31,60546
+349,Eric Gales,1349,40,129618
+350,Esther Phillips,1350,44,172318
+351,ZZ Top,1351,68,633548
+352,Jason Isbell and the 400 Unit,1352,55,335816
+353,Magic Slim  The Teardrops,1353,27,40095
+354,Christine McVie,1354,39,120181
+355,Don Bryant,1355,25,31879
+356,Elles Bailey,1356,36,94639
+357,Joanne Shaw Taylor,1357,42,149951
+358,Aretha Franklin,1358,69,661830
+359,Walter Trout,1359,40,129605
+360,Bob Corritore,1360,28,44696
+361,Angela Strehli,1361,31,60573
+362,Kirk Fletcher,1362,33,72982
+363,GA20,1363,34,79767
+364,St. Paul Peterson,1364,21,18965
+365,Fantastic Negrito,1365,46,196799
+366,Hank Williams Jr.,1366,64,528393
+367,Mick Kolassa,1367,25,31899
+368,Miko Marks,1368,34,79767
+369,Arthur Brown,1369,32,66580
+370,Sass Jordan,1370,32,66568
+371,Janiva Magness,1371,34,79776
+372,Emanuel Casablanca,1372,20,16405
+373,Ghost Hounds,1373,32,66585
+374,Eric Johnson,1374,47,209865
+375,Mavis Staples,1375,50,252512
+376,Robin Trower,1376,44,172330
+377,Dana Fuchs,1377,37,102702
+378,Altered Five Blues Band,1378,27,40111
+379,Gina Sicilia,1379,29,49647
+380,Edgar Winter,1380,33,72989
+381,Govt Mule,1381,48,223509
+382,Son Of Dave,1382,30,54903
+383,Vaneese Thomas,1383,56,354379
+384,8 Ball Aitken,1384,21,18972
+385,Popa Chubby,1385,36,94625
+386,Gaye Alegbalola,1386,7,735
+387,Rehab,1387,55,335785
+388,Seth Walker,1388,29,49623
+389,Micki Free,1389,15,6981
+390,Andy Kahrs,1390,9,1546
+391,Luke WinslowKing,1391,35,86986
+392,Mike Clark  the Sugar Sounds,1392,27,40101
+393,Clarence Spady,1393,8,1090
+394,J.D. Simo,1394,28,44709
+395,Jackie Venson,1395,31,60557
+396,Hans Theessink,1396,28,44705
+397,Omar Coleman,1397,17,10127
+398,Dion,1398,56,354372
+399,Sue Foley,1399,29,49621
+400,Blues Traveler,1400,57,373651
+401,Colin James,1401,40,129601
+402,Danny Bryant,1402,28,44694
+403,Sugaray Rayford,1403,32,66578
+404,Dwight  Nicole,1404,19,14097
+405,Tito Jackson,1405,18,11990
+406,Flipsyde,1406,46,196813
+407,Carolyn Wonderland,1407,28,44704
+408,Davy Knowles,1408,33,72966
+409,Melissa Etheridge,1409,53,300582
+410,Samantha Fish,1410,41,139537
+411,Big Daddy Wilson,1411,29,49626
+412,Diesel,1412,45,184287
+413,Seth James,1413,12,3604
+414,Mike Zito,1414,35,87002
+415,Kenny Wayne Shepherd,1415,54,317888
+416,Santana,1416,70,690928
+417,Chuck Berry,1417,64,528414
+418,Marcus King,1418,56,354417
+419,The Marcus King Band,1419,53,300582
+420,The Record Company,1420,48,223515
+421,George Thorogood  The Destroyers,1421,60,435617
+422,Seasick Steve,1422,43,160904
+423,Larkin Poe,1423,47,209879
+424,Danielle Nicole,1424,35,86984
+425,Zuzu Bollin,1425,28,44714
+426,Beth Hart,1426,53,300576
+427,Benny Walker,1427,28,44699
+428,Joe Walsh,1428,57,373670
+429,The Beatles,1429,83,1150514
+430,Free,1430,59,414297
+431,Wilbert Harrison,1431,36,94641
+432,John Brim,1432,24,28229
+433,Taste,1433,38,111203
+434,Booker T.  the M.G.s,1434,55,335787
+435,The Blues Band,1435,32,66591
+436,Love Sculpture,1436,26,35836
+437,Buster Benton,1437,32,66576
+438,Frijid Pink,1438,27,40115
+439,The Graham Bond Organisation,1439,27,40109
+440,Tommy Tucker,1440,29,49632
+441,Nita Rita  Ruby,1441,4,146
+442,Savoy Brown Blues Band,1442,18,11994
+443,The Art Wood Combo,1443,6,468
+444,Bobby Guitar Bennett,1444,6,474
+445,Jeff Beck,1445,57,373686
+446,Drifting Charles,1446,3,65
+447,The Muleskinners,1447,4,147
+448,Tender Slim,1448,3,66
+449,Alexis Korners Blues Incorporated,1449,23,24886
+450,Chicken Shack,1450,36,94620
+451,Al Kooper,1451,42,149953
+452,The Electric Flag,1452,28,44711
+453,Johann Sebastian Bach,1453,75,849426
+454,George Frideric Handel,1454,63,504105
+455,Johannes Brahms,1455,64,528408
+456,Joseph Haydn,1456,55,335799
+457,Frdric Chopin,1457,72,751711
+458,Ludwig van Beethoven,1458,70,690962
+459,Antonn Dvok,1459,58,393597
+460,Ottorino Respighi,1460,52,283936
+461,Maurice Ravel,1461,58,393612
+462,Claude Debussy,1462,68,633495
+463,Edvard Grieg,1463,61,457687
+464,Giuseppe Verdi,1464,60,435611
+465,Richard Wagner,1465,53,300590
+466,Wolfgang Amadeus Mozart,1466,73,783374
+467,Csar Franck,1467,44,172312
+468,Franz Schubert,1468,63,504124
+469,Jean Sibelius,1469,55,335780
+470,Giacomo Puccini,1470,59,414268
+471,Antonio Vivaldi,1471,68,633555
+472,Richard Strauss,1472,48,223523
+473,Anton Bruckner,1473,43,160889
+474,Hector Berlioz,1474,39,120198
+475,Frederick Delius,1475,47,209885
+476,Max Bruch,1476,43,160882
+477,Felix Mendelssohn,1477,58,393594
+478,Aram Khachaturian,1478,50,252516
+479,Ralph Vaughan Williams,1479,49,237746
+480,Jacques Offenbach,1480,50,252509
+481,Johann Strauss II,1481,54,317878
+482,Gustav Holst,1482,51,267922
+483,Bedich Smetana,1483,45,184295
+484,Gabriel Faur,1484,60,435650
+485,Edward Elgar,1485,55,335793
+486,Tomaso Albinoni,1486,49,237738
+487,Samuel Barber,1487,48,223503
+488,Gustav Mahler,1488,52,283940
+489,Franz Liszt,1489,60,435659
+490,Luigi Boccherini,1490,51,267940
+491,Henry Purcell,1491,52,283951
+492,Pietro Mascagni,1492,46,196832
+493,Georges Bizet,1493,57,373673
+494,Dmitri Shostakovich,1494,56,354416
+495,Carl Maria von Weber,1495,44,172322
+496,Camille SaintSans,1496,63,504076
+497,Joaqun Rodrigo,1497,47,209886
+498,Robert Schumann,1498,62,480538
+499,Johann Bach,1499,21,18972
+500,Lo Delibes,1500,50,252550
+501,Hugo Wolf,1501,26,35840
+502,Igor Stravinsky,1502,48,223511
+503,Niccol Paganini,1503,51,267927
+504,Claudio Monteverdi,1504,44,172314
+505,Jules Massenet,1505,51,267921
+506,Charles Gounod,1506,48,223524
+507,Alexander Borodin,1507,48,223520
+508,George Gershwin,1508,49,237712
+509,Erik Satie,1509,65,553533
+510,Giovanni Battista Pergolesi,1510,43,160901
+511,Carl Orff,1511,49,237728
+512,Johann Strauss I,1512,39,120172
+513,Amilcare Ponchielli,1513,44,172334
+514,Manuel de Falla,1514,43,160873
+515,Arcangelo Corelli,1515,54,317898
+516,Christoph Willibald Gluck,1516,51,267906
+517,Sergei Rachmaninoff,1517,61,457726
+518,Ernest Chausson,1518,28,44711
+519,Aaron Copland,1519,46,196820
+520,Nikolai RimskyKorsakov,1520,49,237733
+521,Arnold Schoenberg,1521,44,172320
+522,Domenico Scarlatti,1522,48,223520
+523,Fritz Kreisler,1523,46,196808
+524,Pyotr Ilyich Tchaikovsky,1524,66,579373
+525,Gioachino Rossini,1525,52,283929
+526,Leonard Bernstein,1526,58,393645
+527,Sergei Prokofiev,1527,54,317858
+528,Mikhail Glinka,1528,33,72977
+529,Pierre Boulez,1529,48,223495
+530,Carl Philipp Emanuel Bach,1530,48,223493
+531,Heinrich Schtz,1531,30,54929
+532,Bla Bartk,1532,47,209865
+533,Gyrgy Ligeti,1533,35,86987
+534,Guillaume de Machaut,1534,28,44689
+535,Benjamin Britten,1535,46,196809
+536,Carl Nielsen,1536,36,94643
+537,Zoltn Kodly,1537,28,44698
+538,Georg Philipp Telemann,1538,51,267904
+539,John Philip Sousa,1539,38,111210
+540,Johann Pachelbel,1540,57,373656
+541,Orlande de Lassus,1541,30,54916
+542,Guillaume Dufay,1542,29,49623
+543,Percy Grainger,1543,33,72988
+544,Vincenzo Bellini,1544,43,160877
+545,Darius Milhaud,1545,30,54924
+546,Giovanni Gabrieli,1546,27,40108
+547,Josef Suk,1547,21,18965
+548,Henryk Wieniawski,1548,32,66588
+549,Heitor VillaLobos,1549,41,139525
+550,JeanPhilippe Rameau,1550,52,283971
+551,Franois Couperin,1551,44,172339
+552,Thomas Tallis,1552,35,87010
+553,Antonio Salieri,1553,34,79787
+554,Giovanni Pierluigi da Palestrina,1554,40,129621
+555,David R. Gillingham,1555,11,2784
+556,John Dowland,1556,42,149968
+557,Jan Dismas Zelenka,1557,34,79787
+558,Paul Hindemith,1558,33,72972
+559,Alexander Glazunov,1559,42,149967
+560,Roman Hoffstetter,1560,24,28247
+561,Girolamo Frescobaldi,1561,33,72978
+562,Olivier Messiaen,1562,33,72989
+563,Lugwig van Beethoven,1563,1,3
+564,Michael Praetorius,1564,36,94611
+565,Josef Rejcha,1565,0,0
+566,William Byrd,1566,34,79794
+567,JeanBaptiste Lully,1567,44,172347
+568,Anton Webern,1568,30,54908
+569,Carl Davis,1569,40,129619
+570,Hildegard von Bingen,1570,41,139543
+571,Josquin des Prez,1571,34,79764
+572,Carlo Gesualdo,1572,28,44688
+573,John Adams,1573,38,111193
+574,Osvaldo Golijov,1574,20,16403
+575,Franz von Supp,1575,29,49628
+576,Alessandro Scarlatti,1576,38,111221
+577,Marin Marais,1577,40,129636
+578,Alban Berg,1578,27,40105
+579,Krzysztof Penderecki,1579,39,120186
+580,Traditional,1580,58,393628
+581,Johannes Ockeghem,1581,28,44706
+582,Giuseppe Tartini,1582,42,149942
+583,Protin,1583,28,44712
+584,Julius Fuk,1584,29,49624
+585,John Taverner,1585,21,18969
+586,Charles Ives,1586,25,31900
+587,Howard Blake,1587,38,111196
+588,Luigi Cherubini,1588,35,86996
+589,Leo Janek,1589,40,129627
+590,William Lawes,1590,24,28239
+591,Clara Schumann,1591,46,196798
+592,Franz Schmidt,1592,12,3605
+593,Arvo Prt,1593,51,267918
+594,Gilles Binchois,1594,17,10130
+595,Arthur Honegger,1595,20,16403
+596,Ruggero Leoncavallo,1596,39,120184
+597,Alfred Schnittke,1597,30,54920
+598,MarcAntoine Charpentier,1598,35,86985
+599,Jean Richafort,1599,9,1548
+600,Heinrich Ignaz Franz von Biber,1600,38,111195
+601,Vladimir Horowitz,1601,47,209894
+602,Modest Mussorgsky,1602,48,223529
+603,John Sheppard,1603,20,16412
+604,Franco Margola,1604,2,22
+605,Kurt Weill,1605,36,94621
+606,Vieux Gaultier,1606,16,8456
+607,Morton Gould,1607,30,54928
+608,Anton Rubinstein,1608,32,66586
+609,Leopold Mozart,1609,26,35848
+610,Witold Lutosawski,1610,22,21793
+611,Morton Feldman,1611,29,49619
+612,Orlando Gibbons,1612,27,40119
+613,Max Reger,1613,33,72975
+614,Tylman Susato,1614,23,24863
+615,Einojuhani Rautavaara,1615,24,28247
+616,Paul Dukas,1616,35,86978
+617,Thomas Weelkes,1617,19,14090
+618,Alfonso X El Sabio,1618,29,49632
+619,John Cooke,1619,0,0
+620,Anonymous,1620,53,300587
+621,Bohuslav Martin,1621,25,31883
+622,Astor Piazzolla,1622,49,237726
+623,Maurice Durufl,1623,29,49626
+624,Toms Luis de Victoria,1624,32,66581
+625,Alan Hovhaness,1625,24,28238
+626,Thomas Morley,1626,25,31881
+627,Jeremiah Clarke,1627,31,60545
+628,Giulio Caccini,1628,34,79789
+629,Daniel Bacheler,1629,18,12006
+630,Dietrich Buxtehude,1630,37,102705
+631,Jan Pieterszoon Sweelinck,1631,25,31884
+632,Antonio de Cabezn,1632,19,14095
+633,Louis Couperin,1633,29,49619
+634,Henri Dutilleux,1634,19,14096
+635,Karol Szymanowski,1635,35,87002
+636,George Enescu,1636,25,31880
+637,Sieur de Machy,1637,2,20
+638,Alexander Scriabin,1638,49,237740
+639,Hans Weck,1639,0,0
+640,Francis Poulenc,1640,47,209873
+641,Umberto Giordano,1641,35,86983
+642,Giovanni Pacoloni,1642,2,20
+643,Vincent Youmans,1643,23,24873
+644,William Walton,1644,44,172345
+645,Toru Takemitsu,1645,29,49622
+646,Elinor Remick Warren,1646,0,0
+647,Steve Reich,1647,43,160899
+648,John Williams,1648,70,690941
+649,John Cage,1649,38,111198
+650,Isaac Albniz,1650,43,160875
+651,Philip Glass,1651,60,435658
+652,Jrg Widmann,1652,17,10119
+653,Louise Farrenc,1653,31,60567
+654,The Anonymous,1654,26,35837
+655,Vclav Jan Krtitel Tomsek,1655,0,0
+656,Mstislav Rostropovich,1656,48,223508
+657,Peter Maxwell Davies,1657,27,40099
+658,Tarquinio Merula,1658,19,14083
+659,Edgar Meyer,1659,45,184284
+660,Morten Lauridsen,1660,36,94627
+661,Max Richter,1661,71,720893
+662,Samuel ColeridgeTaylor,1662,40,129625
+663,Joseph Boulogne Chevalier de SaintGeorges,1663,35,87004
+664,Alison Balsom,1664,36,94642
+665,Florence Beatrice Price,1665,40,129637
+666,Jess Gillam,1666,41,139524
+667,Andr Previn,1667,58,393645
+668,Johann Nepomuk Hummel,1668,33,72992
+669,Yann Tiersen,1669,62,480511
+670,Austin Wintory,1670,47,209855
+671,Jan Garbarek,1671,46,196827
+672,Nino Rota,1672,53,300609
+673,Stanley Myers,1673,42,149948
+674,Remo Giazotto,1674,42,149972
+675,Germaine Tailleferre,1675,35,86977
+676,Nadia Boulanger,1676,32,66581
+677,John Tavener,1677,34,79797
+678,Amy Beach,1678,45,184275
+679,Erich Wolfgang Korngold,1679,38,111224
+680,Michael Nyman,1680,51,267909
+681,Nathan Milstein,1681,31,60565
+682,Shinichi Suzuki,1682,39,120160
+683,Mela Tenenbaum,1683,31,60568
+684,Emmy Verhey,1684,29,49630
+685,Pablo de Sarasate,1685,40,129635
+686,Tenenbaum  Kapp,1686,5,280
+687,Jennifer Higdon,1687,17,10122
+688,Daniel Jang,1688,53,300593
+689,Franz Drdla,1689,3,65
+690,Sarah Brightman,1690,55,335792
+691,Karoly Botvay,1691,46,196790
+692,John Field,1692,48,223506
+693,Morgan Pochin,1693,15,6986
+694,Slovak Radio Symphony Orchestra,1694,51,267910
+695,Karl Jenkins,1695,57,373674
+696,Alexander Litvinovsky,1696,30,54915
+697,Howard Hanson,1697,25,31884
+698,Domenico Cimarosa,1698,45,184299
+699,Manuel Blancafort,1699,33,72987
+700,Ludovico Einaudi,1700,76,883731
+701,Joe Hisaishi,1701,67,606061
+702,Jhann Jhannsson,1702,61,457705
+703,Carlos Cipa,1703,50,252509
+704,Jean Rondeau,1704,33,72974
+705,Tony Anderson,1705,51,267920
+706,lafur Arnalds,1706,63,504119
+707,Felix Rsch,1707,36,94631
+708,Joep Beving,1708,59,414253
+709,Ola Gjeilo,1709,54,317858
+710,Daigo Hanada,1710,51,267929
+711,Ennio Morricone,1711,63,504097
+712,GEL,1712,45,184305
+713,Tom Ashbrook,1713,42,149950
+714,Sigvaldi Kaldalns,1714,49,237744
+715,Louis Vierne,1715,24,28226
+716,Komitas,1716,34,79778
+717,Tigran Hamasyan,1717,41,139545
+718,Toivo Kuula,1718,24,28226
+719,Valentin Silvestrov,1719,50,252533
+720,William Grant Still,1720,42,149964
+721,Mikael Ayrapetyan,1721,37,102709
+722,Vkingur lafsson,1722,61,457693
+723,Ignaz Friedman,1723,42,149982
+724,Georg Holm,1724,28,44713
+725,Federico Mompou,1725,39,120198
+726,Damjan Krajacic,1726,25,31883
+727,Baal HaSulam,1727,24,28228
+728,Angela Morley,1728,15,6989
+729,Alexis Ffrench,1729,60,435652
+730,Roger Eno,1730,47,209869
+731,Andrea Bocelli,1731,67,606081
+732,Evgueni Galperine,1732,30,54917
+733,HAUSER,1733,51,267922
+734,Janne Mark,1734,10,2100
+735,Antnio Carlos Gomes,1735,11,2790
+736,Johann Christian Bach,1736,34,79769
+737,Amanda Lee Falkenberg,1737,8,1094
+738,Poppy Ackroyd,1738,38,111223
+739,Ptr Aleksnder,1739,43,160886
+740,Sister Elizabeth Ballatti,1740,12,3602
+741,Wolfert Brederode,1741,22,21798
+742,Belle Chen,1742,32,66583
+743,Conrado del Campo,1743,2,22
+744,Almeida Prado,1744,5,276
+745,Didier Leblanc,1745,5,277
+746,Lydia Jane Pugh,1746,1,3
+747,Alfred Huber,1747,1,3
+748,Andrea Casarrubios,1748,3,64
+749,Gregor Joseph Werner,1749,14,5696
+750,Albert Roussel,1750,16,8463
+751,Ros Stephen,1751,19,14092
+752,Vincenzo Righini,1752,4,146
+753,Hans Naumilkat,1753,2,22
+754,Jo Blankenburg,1754,41,139541
+755,Michael Tippett,1755,19,14080
+756,Clemens Thieme,1756,4,147
+757,Kjell Mrk Karlsen,1757,17,10122
+758,Dom Pedro I,1758,1,3
+759,Aleksander Debicz,1759,34,79798
+760,Ferdinand Hrold,1760,27,40099
+761,Adolphe Adam,1761,39,120181
+762,Yuri Grigorovich,1762,23,24876
+763,Ludwig Minkus,1763,44,172322
+764,Georg Friedrich Hndek,1764,22,21790
+765,Gaspar Sanz,1765,31,60553
+766,Johann Joachim Quantz,1766,30,54912
+767,lisabeth Jacquet de La Guerre,1767,24,28228
+768,Michel Corrette,1768,25,31896
+769,Jordi Savall,1769,50,252537
+770,Francesco Cavalli,1770,26,35834
+771,Wilhelm Friedemann Bach,1771,31,60558
+772,Johann Gottlieb Goldberg,1772,21,18966
+773,Georg Muffat,1773,27,40115
+774,LArpeggiata,1774,39,120174
+775,Reynaldo Hahn,1775,39,120174
+776,Joachim Raff,1776,20,16419
+777,Leo Brouwer,1777,45,184320
+778,CharlesValentin Alkan,1778,30,54905
+779,St. Petersburg State Symphony Orchestra,1779,39,120171
+780,London Philharmonic Orchestra,1780,63,504066
+781,London Symphony Orchestra,1781,71,720894
+782,London Concert Orchestra,1782,26,35853
+783,Wayne Shorter,1783,46,196790
+784,Joe Henderson,1784,43,160888
+785,Freddie Hubbard,1785,43,160891
+786,Sonny Rollins,1786,49,237747
+787,McCoy Tyner,1787,45,184284
+788,Dexter Gordon,1788,47,209885
+789,Clifford Brown,1789,48,223492
+790,Bud Powell,1790,40,129621
+791,Oliver Nelson,1791,41,139531
+792,Miles Davis Quintet,1792,48,223490
+793,Cannonball Adderley,1793,56,354388
+794,McCoy Tyner Trio,1794,35,86982
+795,The Modern Jazz Quartet,1795,44,172345
+796,Dizzy Gillespie,1796,48,223519
+797,Lee Morgan,1797,45,184308
+798,Kenny Dorham,1798,43,160889
+799,Bill Evans Trio,1799,53,300616
+800,Hank Mobley,1800,47,209890
+801,Roy Hargrove,1801,44,172326
+802,Art Blakey  The Jazz Messengers,1802,43,160884
+803,Horace Silver,1803,45,184302
+804,Ahmad Jamal,1804,45,184275
+805,Joshua Redman,1805,41,139559
+806,Lee Konitz,1806,44,172317
+807,Charlie Parker,1807,49,237705
+808,Ron Carter,1808,43,160869
+809,Art Tatum,1809,45,184308
+810,Thelonious Monk,1810,50,252534
+811,John Coltrane Quartet,1811,47,209855
+812,The Cannonball Adderley Quintet,1812,34,79786
+813,Charles Mingus,1813,47,209883
+814,Oscar Peterson Trio,1814,56,354419
+815,Sonny Clark,1815,44,172329
+816,Ahmad Jamal Trio,1816,45,184301
+817,Lester Young,1817,49,237743
+818,Art Blakey,1818,40,129606
+819,Sonny Stitt,1819,43,160902
+820,Wes Montgomery,1820,49,237703
+821,Benny Golson,1821,44,172318
+822,Red Garland,1822,51,267939
+823,Kenny Garrett,1823,35,87008
+824,Art Pepper,1824,45,184311
+825,Wynton Kelly,1825,44,172346
+826,Miles Davis Quartet,1826,36,94610
+827,Coleman Hawkins,1827,49,237736
+828,Gerry Mulligan,1828,48,223517
+829,Ben Webster,1829,51,267944
+830,Tommy Flanagan,1830,44,172331
+831,Chick Corea,1831,49,237720
+832,Bill Evans,1832,60,435636
+833,Wynton Marsalis,1833,48,223502
+834,Art Farmer,1834,41,139529
+835,Oscar Peterson,1835,54,317869
+836,Bobby Timmons,1836,40,129627
+837,Rahsaan Roland Kirk,1837,41,139528
+838,Elvin Jones,1838,37,102692
+839,Gene Ammons,1839,44,172328
+840,The Dave Brubeck Quartet,1840,53,300589
+841,Milt Jackson,1841,38,111202
+842,Erroll Garner,1842,46,196816
+843,Kenny Burrell,1843,46,196802
+844,Thelonious Monk Quartet,1844,24,28244
+845,Grant Green,1845,44,172333
+846,John Coltrane,1846,63,504076
+847,Benny Carter,1847,41,139529
+848,Horace Silver Quintet,1848,34,79795
+849,Jackie McLean,1849,37,102707
+850,Johnny Hodges,1850,46,196791
+851,Paul Desmond,1851,51,267903
+852,Yusef Lateef,1852,44,172343
+853,Ornette Coleman,1853,33,72988
+854,Christian McBride,1854,40,129629
+855,Brad Mehldau,1855,49,237715
+856,Michael Brecker,1856,35,87006
+857,Max Roach,1857,41,139546
+858,Stanley Turrentine,1858,42,149965
+859,Blue Mitchell,1859,35,86978
+860,Charlie Parker Quartet,1860,38,111194
+861,Bobby Hutcherson,1861,39,120170
+862,Kurt Rosenwinkel,1862,38,111213
+863,Thad Jones,1863,36,94632
+864,Lou Donaldson,1864,45,184306
+865,Eric Dolphy,1865,31,60551
+866,Woody Shaw,1866,27,40118
+867,Cedar Walton,1867,30,54922
+868,Kenny Drew,1868,33,72982
+869,J.J. Johnson,1869,31,60574
+870,Duke Ellington,1870,56,354391
+871,Herbie Hancock,1871,56,354411
+872,Paul Chambers,1872,52,283936
+873,Red Garland Trio,1873,38,111206
+874,Chet Baker,1874,62,480559
+875,Charles Lloyd,1875,40,129637
+876,Ike Quebec,1876,44,172320
+877,Jim Hall,1877,47,209855
+878,Andrew Hill,1878,28,44712
+879,Gil Evans,1879,35,86977
+880,Miles Davis Sextet,1880,27,40107
+881,Charlie Haden,1881,46,196821
+882,Keith Jarrett Trio,1882,41,139555
+883,Johnny Griffin,1883,34,79797
+884,Fats Navarro,1884,35,86982
+885,Thelonious Monk Septet,1885,31,60568
+886,Joe Lovano,1886,41,139550
+887,Dave Brubeck,1887,50,252521
+888,Roy Haynes,1888,31,60565
+889,Brad Mehldau Trio,1889,40,129632
+890,Miles Davis,1890,61,457692
+891,Gerry Mulligan Quartet,1891,35,86976
+892,Tom Harrell,1892,28,44716
+893,Zoot Sims,1893,40,129623
+894,Joshua Redman Quartet,1894,29,49646
+895,Hank Jones,1895,40,129601
+896,Chris Potter,1896,36,94609
+897,Gerald Clayton,1897,37,102679
+898,Kenny Barron,1898,36,94628
+899,Aaron Parks,1899,33,72974
+900,Keith Jarrett,1900,52,283936
+901,Sam Rivers,1901,27,40121
+902,Gary Burton,1902,37,102703
+903,Walter Smith III,1903,25,31896
+904,Jacky Terrasson,1904,44,172341
+905,Barry Harris,1905,30,54908
+906,Marc Copland,1906,33,72990
+907,Wolfgang Muthspiel,1907,32,66570
+908,Nicholas Payton,1908,33,72968
+909,Nat Adderley,1909,30,54903
+910,Kenny Wheeler,1910,28,44708
+911,Lennie Tristano,1911,28,44696
+912,Joe Pass,1912,45,184293
+913,Vijay Iyer,1913,29,49645
+914,Roy Haynes Quartet,1914,26,35847
+915,Hampton Hawes,1915,29,49630
+916,Weather Report,1916,42,149951
+917,Christian Scott aTunde Adjuah,1917,42,149965
+918,Bud Powell Trio,1918,34,79770
+919,Donald Byrd,1919,48,223514
+920,Enrico Pieranunzi,1920,39,120173
+921,John Scofield,1921,45,184300
+922,Archie Shepp,1922,35,86986
+923,Sarah Vaughan,1923,55,335823
+924,Larry Goldings,1924,33,72966
+925,Lionel Loueke,1925,33,72988
+926,Mulgrew Miller,1926,35,86998
+927,Mark Turner,1927,27,40102
+928,Tina Brooks,1928,31,60551
+929,George Shearing,1929,44,172313
+930,Ari Hoenig,1930,35,86991
+931,Jaco Pastorius,1931,42,149959
+932,Teddy Wilson,1932,47,209857
+933,Fred Hersch,1933,31,60574
+934,Ambrose Akinmusire,1934,31,60543
+935,Lionel Hampton,1935,43,160896
+936,Tony Williams,1936,33,72981
+937,Curtis Fuller,1937,30,54901
+938,Mose Allison,1938,46,196803
+939,Roy Hargrove Quintet,1939,22,21801
+940,Carla Bley,1940,32,66560
+941,Pat Martino,1941,38,111192
+942,Brian Blade  The Fellowship Band,1942,31,60553
+943,Michel Petrucciani,1943,35,87002
+944,Pharoah Sanders,1944,45,184311
+945,Oscar Pettiford,1945,28,44700
+946,Gilad Hekselman,1946,30,54901
+947,Charlie Parker Quintet,1947,27,40117
+948,Avishai Cohen,1948,47,209885
+949,Anita ODay,1949,49,237726
+950,Jason Moran,1950,30,54907
+951,Tadd Dameron,1951,28,44708
+952,The Bad Plus,1952,37,102711
+953,Taylor Eigsti,1953,30,54903
+954,Serge Chaloff,1954,29,49647
+955,Clark Terry,1955,38,111190
+956,Dave Liebman,1956,30,54913
+957,Pat Metheny,1957,50,252501
+958,Stan Getz,1958,62,480532
+959,Fats Waller,1959,45,184310
+960,Alan Pasqua,1960,38,111208
+961,Vijay Iyer Trio,1961,22,21796
+962,Hiromi,1962,40,129610
+963,Bill Frisell,1963,44,172313
+964,Betty Carter,1964,45,184310
+965,Sidney Bechet,1965,47,209859
+966,Etta Jones,1966,47,209873
+967,Phronesis,1967,21,18977
+968,Esperanza Spalding,1968,45,184315
+969,Dave Douglas,1969,24,28225
+970,Christian Sands,1970,24,28238
+971,Cannonball Adderley Sextet,1971,26,35846
+972,Orrin Evans,1972,30,54910
+973,Stefon Harris,1973,26,35828
+974,Ben Wendel,1974,21,18980
+975,Julian Lage,1975,45,184280
+976,Esbjrn Svensson Trio,1976,43,160884
+977,Marquis Hill,1977,31,60552
+978,Marcus Strickland,1978,30,54903
+979,Peter Erskine,1979,37,102705
+980,Christian McBride Big Band,1980,20,16413
+981,Booker Little,1981,27,40110
+982,Gerry Mulligan Sextet,1982,42,149958
+983,Buddy Rich,1983,39,120194
+984,BLOSSOM DEARIE,1984,52,283948
+985,John Patitucci,1985,37,102708
+986,Benny Goodman,1986,49,237719
+987,Miguel Zenn,1987,25,31881
+988,Django Reinhardt,1988,51,267929
+989,Phil Woods,1989,34,79776
+990,Earl Hines,1990,34,79787
+991,Shai Maestro,1991,30,54913
+992,Booker Ervin,1992,27,40119
+993,Benny Green,1993,29,49623
+994,Marc Johnson,1994,34,79774
+995,Pat Metheny Group,1995,51,267933
+996,Johnny Hartman,1996,52,283926
+997,Red Garland Quintet,1997,20,16411
+998,Geri Allen,1998,27,40097
+999,Roy Eldridge,1999,33,72980
+1000,Yellowjackets,2000,37,102686
+1001,Marcin Wasilewski Trio,2001,38,111207
+1002,Bobo Stenson Trio,2002,31,60570
+1003,Donny McCaslin,2003,26,35854
+1004,Dave Holland Quintet,2004,18,11992
+1005,Don Byas,2005,29,49636
+1006,Barney Kessel,2006,34,79766
+1007,John McLaughlin,2007,44,172304
+1008,Mal Waldron,2008,34,79773
+1009,Charlie Christian,2009,31,60546
+1010,Cyrus Chestnut,2010,36,94642
+1011,John Abercrombie,2011,30,54904
+1012,Ralph Towner,2012,33,72993
+1013,Tord Gustavsen Trio,2013,43,160890
+1014,Nancy Wilson,2014,54,317881
+1015,Eddie Lockjaw Davis,2015,30,54929
+1016,Nate Smith,2016,37,102693
+1017,Art Blakey Quintet,2017,19,14088
+1018,Paul Bley,2018,31,60567
+1019,Larry Young,2019,27,40112
+1020,Mingus Big Band,2020,30,54914
+1021,Charlie Parker  Dizzy Gillespie,2021,3,66
+1022,Horace Parlan,2022,28,44692
+1023,Jimmy Heath,2023,30,54929
+1024,Bobby Timmons Trio,2024,30,54926
+1025,Ray Bryant,2025,35,87005
+1026,Cal Tjader,2026,45,184318
+1027,Joey DeFrancesco,2027,38,111214
+1028,Kamasi Washington,2028,54,317858
+1029,Joe Zawinul,2029,33,72996
+1030,Terri Lyne Carrington,2030,28,44705
+1031,Victor Wooten,2031,41,139547
+1032,John Beasley,2032,18,11990
+1033,Gregg August,2033,1,4
+1034,Yusuke Shima,2034,29,49648
+1035,Arseny Rykov Trio,2035,0,0
+1036,Regina Carter,2036,26,35837
+1037,Louis Armstrong,2037,68,633555
+1038,Ella Fitzgerald,2038,66,579381
+1039,Nat King Cole,2039,65,553488
+1040,Astrud Gilberto,2040,60,435650
+1041,Frank Sinatra,2041,74,815930
+1042,Julie London,2042,56,354400
+1043,Galt MacDermot,2043,46,196812
+1044,Lorez Alexandria,2044,42,149977
+1045,Glenn Miller,2045,54,317870
+1046,Alice Coltrane,2046,44,172323
+1047,Dean Martin,2047,65,553532
+1048,Jan Johansson,2048,42,149973
+1049,Pete La Roca,2049,33,72974
+1050,Peggy Lee,2050,57,373650
+1051,Vince Guaraldi Trio,2051,50,252529
+1052,Sonny Rollins Quartet,2052,36,94611
+1053,The Ben Webster Quintet,2053,32,66573
+1054,Coleman Hawkins Quartet,2054,39,120184
+1055,Eartha Kitt,2055,47,209898
+1056,Herbie Mann,2056,40,129606
+1057,George Shearing Quintet,2057,32,66582
+1058,Mary Lou Williams,2058,35,86993
+1059,Mel Torm,2059,48,223508
+1060,Dave Holland Quartet,2060,27,40104
+1061,Jutta Hipp,2061,31,60574
+1062,Quincy Jones,2062,56,354409
+1063,Michael Naura Quartet,2063,25,31880
+1064,Lars Gullin,2064,30,54908
+1065,The Monty Alexander Trio,2065,26,35831
+1066,Leroy Hutson,2066,36,94621
+1067,Phil Woods Quartet,2067,17,10125
+1068,Toots Thielemans,2068,44,172342
+1069,Albert Ayler,2069,28,44709
+1070,Vera Lynn,2070,50,252542
+1071,BADBADNOTGOOD,2071,64,528413
+1072,Bobby Darin,2072,60,435629
+1073,Tony Bennett,2073,61,457698
+1074,Lizz Wright,2074,48,223499
+1075,Jo Stafford,2075,47,209873
+1076,Jeri Southern,2076,39,120176
+1077,Margaret Whiting,2077,45,184301
+1078,Doris Day,2078,56,354420
+1079,Rosemary Clooney,2079,45,184299
+1080,Karrin Allyson,2080,43,160874
+1081,Carmen McRae,2081,45,184299
+1082,Joe Williams,2082,38,111191
+1083,Dinah Shore,2083,41,139535
+1084,Lena Horne,2084,40,129613
+1085,Monica Zetterlund,2085,43,160868
+1086,Rod Stewart,2086,72,751715
+1087,Ida Sand,2087,45,184290
+1088,Dakota Staton,2088,40,129621
+1089,Jamie Cullum,2089,57,373671
+1090,Fred Astaire,2090,46,196824
+1091,Cannonball Adderley Quartet,2091,30,54928
+1092,Dizzy Reece,2092,28,44715
+1093,Charlie Rouse,2093,29,49633
+1094,Duke Pearson,2094,31,60563
+1095,Sonny Rollins Quintet,2095,16,8449
+1096,Stacey Kent,2096,59,414262
+1097,Harry Connick Jr.,2097,51,267952
+1098,Judy Garland,2098,48,223535
+1099,Diana Krall,2099,62,480558
+1100,Ernestine Anderson,2100,39,120185
+1101,Helen Merrill,2101,44,172317
+1102,Cliff Jordan,2102,25,31881
+1103,Scott Hamilton,2103,47,209870
+1104,Warne Marsh,2104,37,102683
+1105,Joe Pesci,2105,20,16400
+1106,Marian McPartland Trio,2106,9,1542
+1107,Eddie Harris,2107,34,79778
+1108,Pepper Adams,2108,27,40103
+1109,Shirley Horn,2109,44,172334
+1110,June Christy,2110,43,160877
+1111,Tommy Flanagan Trio,2111,34,79785
+1112,Lee Wiley,2112,29,49630
+1113,Stanley Turrentine  The Three Sounds,2113,26,35834
+1114,Naughty By Nature,2114,57,373688
+1115,A Tribe Called Quest,2115,65,553500
+1116,Mos Def,2116,64,528446
+1117,The Pharcyde,2117,58,393608
+1118,Eric B.  Rakim,2118,52,283928
+1119,Gang Starr,2119,61,457741
+1120,Slick Rick,2120,55,335810
+1121,Ol Dirty Bastard,2121,64,528439
+1122,Redman,2122,64,528447
+1123,KRSOne,2123,54,317885
+1124,GZA,2124,62,480511
+1125,Rakim,2125,57,373645
+1126,EPMD,2126,52,283945
+1127,Big Pun,2127,61,457685
+1128,Public Enemy,2128,56,354389
+1129,Method Man,2129,71,720864
+1130,Big L,2130,58,393596
+1131,De La Soul,2131,58,393588
+1132,Jeru The Damaja,2132,49,237726
+1133,Big Daddy Kane,2133,48,223508
+1134,LL COOL J,2134,62,480531
+1135,Busta Rhymes,2135,71,720885
+1136,Pete Rock  C.L. Smooth,2136,47,209863
+1137,Ghostface Killah,2137,67,606069
+1138,WuTang Clan,2138,67,606067
+1139,AZ,2139,55,335824
+1140,Digable Planets,2140,51,267933
+1141,Raekwon,2141,68,633512
+1142,Mobb Deep,2142,65,553504
+1143,Craig Mack,2143,48,223512
+1144,The Roots,2144,59,414256
+1145,Black Star,2145,49,237741
+1146,Brand Nubian,2146,44,172347
+1147,Black Sheep,2147,44,172313
+1148,Boogie Down Productions,2148,41,139556
+1149,RunD.M.C.,2149,61,457742
+1150,Das EFX,2150,56,354413
+1151,Black Moon,2151,42,149943
+1152,Geto Boys,2152,55,335775
+1153,Del The Funky Homosapien,2153,52,283955
+1154,QTip,2154,61,457708
+1155,Pete Rock,2155,53,300603
+1156,Common,2156,62,480548
+1157,Jurassic 5,2157,55,335777
+1158,Erick Sermon,2158,50,252502
+1159,The Game,2159,74,815930
+1160,Nas,2160,72,751680
+1161,Kool G Rap,2161,48,223498
+1162,Camp Lo,2162,46,196819
+1163,The Notorious B.I.G.,2163,77,919011
+1164,Fat Joe,2164,67,606050
+1165,Lords Of The Underground,2165,44,172305
+1166,Digital Underground,2166,54,317844
+1167,Grand Puba,2167,47,209864
+1168,Jungle Brothers,2168,43,160890
+1169,Fabolous,2169,67,606026
+1170,Souls Of Mischief,2170,53,300580
+1171,Talib Kweli,2171,56,354411
+1172,Clipse,2172,54,317871
+1173,Arrested Development,2173,51,267905
+1174,SmifNWessun,2174,45,184312
+1175,Onyx,2175,51,267919
+1176,Main Source,2176,38,111190
+1177,DJ Premier,2177,60,435645
+1178,Masta Ace,2178,48,223520
+1179,N.W.A.,2179,65,553507
+1180,Warren G,2180,62,480539
+1181,Keith Murray,2181,46,196807
+1182,Scarface,2182,56,354386
+1183,Jay Rock,2183,70,690900
+1184,Fugees,2184,65,553504
+1185,Lost Boyz,2185,46,196821
+1186,Camron,2186,59,414245
+1187,ICET,2187,53,300598
+1188,M.O.P.,2188,52,283924
+1189,Group Home,2189,43,160863
+1190,Diddy,2190,72,751730
+1191,Outkast,2191,74,815992
+1192,Guru,2192,51,267912
+1193,Gravediggaz,2193,43,160890
+1194,O.C.,2194,47,209889
+1195,Biz Markie,2195,49,237737
+1196,Makaveli,2196,57,373684
+1197,King Geedorah,2197,55,335818
+1198,DMX,2198,69,661848
+1199,Poor Righteous Teachers,2199,40,129613
+1200,Masta Ace Incorporated,2200,42,149946
+1201,Lupe Fiasco,2201,66,579413
+1202,Slum Village,2202,53,300602
+1203,ScHoolboy Q,2203,72,751743
+1204,People Under The Stairs,2204,50,252510
+1205,Freddie Gibbs,2205,67,606018
+1206,Hieroglyphics,2206,44,172320
+1207,Phife Dawg,2207,38,111193
+1208,Rick Ross,2208,77,919021
+1209,Blackalicious,2209,46,196798
+1210,Ludacris,2210,76,883736
+1211,Curreny,2211,64,528409
+1212,GUnit,2212,62,480545
+1213,J Dilla,2213,57,373656
+1214,Tha Alkaholiks,2214,36,94642
+1215,Funkdoobiest,2215,43,160888
+1216,Goodie Mob,2216,46,196804
+1217,Twista,2217,66,579369
+1218,Quasimoto,2218,51,267909
+1219,MC Lyte,2219,48,223513
+1220,Ja Rule,2220,68,633555
+1221,Xzibit,2221,65,553490
+1222,Jadakiss,2222,66,579410
+1223,The Alchemist,2223,66,579408
+1224,Royce Da 59,2224,60,435627
+1225,Pharoahe Monch,2225,53,300585
+1226,3rd Bass,2226,35,87009
+1227,Heavy D  The Boyz,2227,48,223524
+1228,Mase,2228,65,553524
+1229,CaponeNNoreaga,2229,45,184315
+1230,Deltron 3030,2230,45,184279
+1231,Nice  Smooth,2231,43,160886
+1232,Cypress Hill,2232,67,606069
+1233,Westside Connection,2233,58,393603
+1234,Madvillain,2234,64,528412
+1235,Organized Konfusion,2235,34,79765
+1236,Lord Finesse,2236,47,209869
+1237,House Of Pain,2237,58,393641
+1238,DANGERDOOM,2238,50,252528
+1239,Ultramagnetic MCs,2239,31,60569
+1240,Viktor Vaughn,2240,52,283952
+1241,Jay Electronica,2241,60,435612
+1242,Big K.R.I.T.,2242,59,414294
+1243,The Beatnuts,2243,58,393623
+1244,The D.O.C.,2244,42,149977
+1245,Pusha T,2245,73,783413
+1246,2 Chainz,2246,76,883741
+1247,FUSchnickens,2247,33,72983
+1248,Bahamadia,2248,46,196824
+1249,Dr. Octagon,2249,38,111191
+1250,EazyE,2250,64,528412
+1251,Reflection Eternal,2251,44,172319
+1252,Large Professor,2252,45,184286
+1253,Sean Price,2253,48,223502
+1254,Lloyd Banks,2254,64,528391
+1255,MF DOOM,2255,73,783378
+1256,Artifacts,2256,41,139553
+1257,Thug Life,2257,48,223492
+1258,Bone ThugsNHarmony,2258,64,528396
+1259,Leaders of the New School,2259,27,40095
+1260,Dilated Peoples,2260,48,223506
+1261,T.I.,2261,73,783364
+1262,Chingy,2262,59,414287
+1263,Nate Dogg,2263,75,849428
+1264,D12,2264,65,553535
+1265,JUVENILE,2265,59,414285
+1266,Snoop Dogg,2266,84,1192548
+1267,AAP Ferg,2267,71,720883
+1268,DJ Quik,2268,54,317847
+1269,Ice Cube,2269,74,815983
+1270,KMD,2270,41,139528
+1271,Nipsey Hussle,2271,67,606045
+1272,Obie Trice,2272,60,435653
+1273,DJ Jazzy Jeff  The Fresh Prince,2273,53,300565
+1274,Special Ed,2274,36,94609
+1275,Handsome Boy Modeling School,2275,44,172305
+1276,Joey Bada,2276,74,815979
+1277,Dr. Dre,2277,78,955248
+1278,Showbiz  A.G.,2278,40,129614
+1279,Trick Daddy,2279,58,393611
+1280,Little Brother,2280,43,160900
+1281,Kool Keith,2281,44,172312
+1282,JAYZ,2282,83,1150463
+1283,Heltah Skeltah,2283,41,139531
+1284,XClan,2284,26,35828
+1285,YG,2285,75,849403
+1286,Foxy Brown,2286,56,354414
+1287,Kool Moe Dee,2287,51,267944
+1288,RZA,2288,64,528437
+1289,Whodini,2289,40,129638
+1290,Lil Kim,2290,65,553513
+1291,Jeezy,2291,69,661820
+1292,The LOX,2292,54,317844
+1293,Mystikal,2293,56,354393
+1294,Jim Jones,2294,58,393596
+1295,Statik Selektah,2295,50,252513
+1296,Sir MixALot,2296,54,317879
+1297,Kool G Rap  DJ Polo,2297,31,60572
+1298,AbSoul,2298,56,354389
+1299,Eve,2299,66,579377
+1300,Stetsasonic,2300,33,72989
+1301,Danny Brown,2301,59,414271
+1302,Chubb Rock,2302,38,111224
+1303,Madlib,2303,67,606048
+1304,Bad Meets Evil,2304,61,457707
+1305,Young Buck,2305,60,435616
+1306,2Pac,2306,79,992365
+1307,DJ Jazzy Jeff,2307,42,149977
+1308,Kurupt,2308,60,435617
+1309,Action Bronson,2309,63,504112
+1310,Black Thought,2310,62,480551
+1311,Dreamville,2311,68,633518
+1312,Beanie Sigel,2312,53,300578
+1313,Westside Gunn,2313,63,504113
+1314,Boldy James,2314,55,335776
+1315,JLive,2315,45,184318
+1316,Vince Staples,2316,68,633549
+1317,Too hort,2317,63,504113
+1318,Coolio,2318,68,633532
+1319,Da Lench Mob,2319,40,129605
+1320,2 LIVE CREW,2320,47,209876
+1321,Paris,2321,32,66568
+1322,Blu,2322,52,283939
+1323,Illa J,2323,47,209881
+1324,Earl Sweatshirt,2324,67,606055
+1325,Mack 10,2325,56,354385
+1326,Schoolly D,2326,29,49642
+1327,Birdman,2327,63,504083
+1328,Three 6 Mafia,2328,62,480515
+1329,UGK,2329,60,435650
+1330,Missy Elliott,2330,70,690917
+1331,Grandmaster Flash,2331,43,160877
+1332,Lil Jon  The East Side Boyz,2332,61,457692
+1333,Comptons Most Wanted,2333,45,184294
+1334,Chief Keef,2334,73,783417
+1335,Conway the Machine,2335,60,435659
+1336,AAP Rocky,2336,81,1069456
+1337,Kid N Play,2337,35,86995
+1338,Wiz Khalifa,2338,82,1109498
+1339,Isaiah Rashad,2339,67,606081
+1340,Mc Shan,2340,30,54930
+1341,Styles P,2341,61,457727
+1342,The Coup,2342,41,139527
+1343,Meek Mill,2343,75,849429
+1344,Fat Boys,2344,34,79785
+1345,N.E.R.D,2345,58,393631
+1346,Cordae,2346,67,606016
+1347,E40,2347,66,579358
+1348,Lootpack,2348,38,111216
+1349,Kurtis Blow,2349,36,94642
+1350,Mike Jones,2350,60,435632
+1351,Bow Wow,2351,60,435645
+1352,Benny The Butcher,2352,64,528423
+1353,Mick Jenkins,2353,60,435635
+1354,AAP Mob,2354,61,457723
+1355,Chance the Rapper,2355,75,849413
+1356,Junior M.A.F.I.A.,2356,51,267938
+1357,Danger Mouse,2357,63,504126
+1358,JustIce,2358,26,35844
+1359,AfuRa,2359,43,160901
+1360,Big Sean,2360,78,955260
+1361,Doug E. Fresh,2361,37,102690
+1362,Kris Kross,2362,50,252506
+1363,Ying Yang Twins,2363,62,480516
+1364,Master P,2364,55,335828
+1365,Marley Marl,2365,40,129638
+1366,Lil Wayne,2366,85,1235542
+1367,Da Brat,2367,52,283934
+1368,Jaylib,2368,33,72974
+1369,9th Wonder,2369,54,317863
+1370,Juicy J,2370,73,783395
+1371,50 Cent,2371,82,1109487
+1372,Wale,2372,70,690912
+1373,French Montana,2373,76,883796
+1374,Jazz Liberatorz,2374,44,172338
+1375,Memphis Bleek,2375,51,267950
+1376,Jay Dee,2376,39,120180
+1377,dj honda,2377,45,184276
+1378,Blackstreet,2378,62,480504
+1379,JPEGMAFIA,2379,62,480503
+1380,The Sugarhill Gang,2380,51,267943
+1381,Bas,2381,67,606038
+1382,David Banner,2382,52,283931
+1383,The Diplomats,2383,47,209894
+1384,Afroman,2384,61,457711
+1385,GoldLink,2385,65,553507
+1386,JID,2386,80,1030441
+1387,Afrika Bambaataa,2387,43,160873
+1388,Smoke DZA,2388,51,267939
+1389,Cormega,2389,46,196818
+1390,Rapsody,2390,52,283931
+1391,Denzel Curry,2391,72,751703
+1392,Baby Bash,2392,61,457712
+1393,The Foreign Exchange,2393,44,172322
+1394,Black Milk,2394,38,111200
+1395,Binary Star,2395,37,102688
+1396,CZARFACE,2396,52,283945
+1397,Big Tymers,2397,53,300585
+1398,SaltNPepa,2398,60,435638
+1399,Fatlip,2399,45,184292
+1400,Nelly,2400,74,815987
+1401,Murs,2401,47,209877
+1402,Ginuwine,2402,66,579395
+1403,EARTHGANG,2403,67,606023
+1404,Saba,2404,63,504105
+1405,Quavo,2405,79,992389
+1406,Inspectah Deck,2406,65,553479
+1407,Flatbush Zombies,2407,57,373670
+1408,Tim Dog,2408,25,31885
+1409,Amin,2409,69,661789
+1410,Queen Latifah,2410,53,300584
+1411,Beastie Boys,2411,68,633491
+1412,Kendrick Lamar,2412,88,1370714
+1413,Yelawolf,2413,65,553521
+1414,Roc Marciano,2414,56,354391
+1415,Dave East,2415,61,457744
+1416,HiTek,2416,39,120181
+1417,Metro Boomin,2417,79,992386
+1418,MachHommy,2418,53,300571
+1419,Young Stoner Life,2419,65,553504
+1420,King Tee,2420,43,160905
+1421,BJ The Chicago Kid,2421,60,435655
+1422,Freestyle Fellowship,2422,29,49632
+1423,Mantronix,2423,35,87008
+1424,MED,2424,50,252544
+1425,MC Hammer,2425,57,373681
+1426,Logic,2426,77,919049
+1427,Freeway,2427,52,283924
+1428,Gurus Jazzmatazz,2428,42,149973
+1429,Timbaland,2429,75,849440
+1430,Kid Cudi,2430,81,1069475
+1431,Shyne,2431,46,196808
+1432,Offset,2432,78,955192
+1433,Dead Prez,2433,48,223501
+1434,Tha Eastsidaz,2434,48,223506
+1435,Big Boi,2435,56,354395
+1436,Mustard,2436,72,751691
+1437,J. Cole,2437,85,1235520
+1438,Immortal Technique,2438,53,300588
+1439,Gucci Mane,2439,77,919053
+1440,Spice 1,2440,48,223521
+1441,Dana Dane,2441,25,31879
+1442,Young MC,2442,50,252507
+1443,Lil Yachty,2443,76,883748
+1444,Jermaine Dupri,2444,58,393622
+1445,NAV,2445,77,919020
+1446,Joyner Lucas,2446,71,720902
+1447,SiR,2447,62,480500
+1448,Diamond D,2448,43,160905
+1449,Young Money,2449,62,480512
+1450,Slim Thug,2450,59,414286
+1451,Smino,2451,66,579366
+1452,Oddisee,2452,47,209900
+1453,Montell Jordan,2453,59,414297
+1454,IDK,2454,61,457694
+1455,DJ Khaled,2455,83,1150466
+1456,Rich The Kid,2456,68,633500
+1457,Elzhi,2457,39,120183
+1458,Young Thug,2458,84,1192498
+1459,DJ Drama,2459,58,393634
+1460,Ty Dolla ign,2460,80,1030405
+1461,KIDS SEE GHOSTS,2461,61,457698
+1462,Canibus,2462,41,139538
+1463,Domo Genesis,2463,56,354379
+1464,Blahzay Blahzay,2464,39,120190
+1465,Aesop Rock,2465,55,335817
+1466,Yo Gotti,2466,69,661823
+1467,TPain,2467,76,883793
+1468,WC,2468,49,237728
+1469,D.I.T.C.,2469,42,149970
+1470,Ugly Duckling,2470,35,87003
+1471,Blu  Exile,2471,37,102705
+1472,Juelz Santana,2472,63,504070
+1473,redveil,2473,58,393631
+1474,Young Nudy,2474,71,720890
+1475,Plies,2475,62,480507
+1476,Baby Keem,2476,78,955231
+1477,Tyler The Creator,2477,84,1192519
+1478,Skyzoo,2478,39,120180
+1479,Pretty Ricky,2479,55,335780
+1480,DJ Clue,2480,45,184284
+1481,Quality Control,2481,65,553530
+1482,Diamond  The Psychotic Neurotics,2482,28,44703
+1483,Dom Kennedy,2483,58,393589
+1484,Next,2484,54,317867
+1485,Daz Dillinger,2485,48,223495
+1486,Pharrell Williams,2486,81,1069463
+1487,6LACK,2487,75,849432
+1488,Jagged Edge,2488,62,480549
+1489,Aaron May,2489,65,553490
+1490,Brother Ali,2490,48,223533
+1491,Kodak Black,2491,81,1069481
+1492,Prodigy,2492,49,237702
+1493,MC Ren,2493,53,300571
+1494,Erykah Badu,2494,64,528432
+1495,B.o.B,2495,72,751747
+1496,Ace Hood,2496,61,457735
+1497,Joe Budden,2497,49,237701
+1498,Migos,2498,77,919014
+1499,Kota the Friend,2499,61,457717
+1500,Jamie Foxx,2500,67,606038
+1501,Frank Ocean,2501,82,1109484
+1502,MadeinTYO,2502,62,480511
+1503,DJ Shadow,2503,60,435625
+1504,Maxo Kream,2504,60,435639
+1505,Rae Sremmurd,2505,72,751715
+1506,Boosie Badazz,2506,64,528416
+1507,Bell Biv DeVoe,2507,55,335828
+1508,Suga Free,2508,47,209887
+1509,SWV,2509,60,435638
+1510,Brandy,2510,64,528435
+1511,Phonte,2511,47,209901
+1512,Jill Scott,2512,56,354402
+1513,Run The Jewels,2513,62,480539
+1514,Huncho Jack,2514,59,414286
+1515,TheDream,2515,63,504103
+1516,Faith Evans,2516,63,504067
+1517,Total,2517,53,300603
+1518,Def Squad,2518,34,79770
+1519,Tha Dogg Pound,2519,47,209901
+1520,Hopsin,2520,62,480524
+1521,K CAMP,2521,62,480537
+1522,Shyheim,2522,39,120163
+1523,J.PERIOD,2523,47,209865
+1524,Black Rob,2524,50,252545
+1525,ToneLoc,2525,48,223503
+1526,Rahzel,2526,41,139539
+1527,Floetry,2527,47,209889
+1528,Jodeci,2528,55,335796
+1529,Flying Lotus,2529,56,354415
+1530,Fivio Foreign,2530,73,783427
+1531,Sisqo,2531,57,373673
+1532,Sticky Fingaz,2532,44,172305
+1533,Childish Gambino,2533,78,955195
+1534,Xscape,2534,51,267936
+1535,SkeeLo,2535,52,283965
+1536,VIC MENSA,2536,60,435622
+1537,B2K,2537,53,300609
+1538,Tech N9ne,2538,69,661815
+1539,O.G.C.,2539,40,129614
+1540,Tee Grizzley,2540,67,606017
+1541,Ras Kass,2541,41,139555
+1542,N.O.R.E.,2542,55,335816
+1543,Mac Miller,2543,83,1150472
+1544,Bun B,2544,59,414249
+1545,Dream Warriors,2545,29,49635
+1546,DNice,2546,40,129638
+1547,Mic Geronimo,2547,30,54920
+1548,The Cool Kids,2548,41,139537
+1549,En Vogue,2549,56,354415
+1550,Moneybagg Yo,2550,78,955217
+1551,BROCKHAMPTON,2551,68,633507
+1552,Ashanti,2552,70,690910
+1553,TLC,2553,67,606067
+1554,REASON,2554,56,354407
+1555,WESTSIDE BOOGIE,2555,60,435656
+1556,Eminem,2556,90,1466182
+1557,Young Dolph,2557,72,751744
+1558,Christina Milian,2558,54,317852
+1559,Tyga,2559,80,1030402
+1560,Funk Flex,2560,52,283959
+1561,WreckxNEffect,2561,42,149956
+1562,Tweet,2562,49,237700
+1563,Audio Two,2563,27,40121
+1564,Amerie,2564,55,335809
+1565,Cunninlynguists,2565,44,172344
+1566,Meechy Darko,2566,52,283954
+1567,Paul Wall,2567,61,457709
+1568,NF,2568,78,955266
+1569,Death Grips,2569,58,393598
+1570,Bilal,2570,60,435603
+1571,Case,2571,55,335818
+1572,Devin The Dude,2572,55,335815
+1573,Brent Faiyaz,2573,80,1030408
+1574,Dru Hill,2574,55,335776
+1575,MAVI,2575,54,317844
+1576,KOS,2576,44,172336
+1577,T La Rock,2577,30,54929
+1578,Guy,2578,49,237718
+1579,Casey Veggies,2579,52,283934
+1580,Raphael Saadiq,2580,53,300595
+1581,Kid Ink,2581,67,606023
+1582,Key Glock,2582,74,815963
+1583,R.A. The Rugged Man,2583,48,223496
+1584,Chris Webby,2584,62,480522
+1585,Odd Future,2585,54,317850
+1586,NxWorries,2586,51,267921
+1587,Lil Durk,2587,83,1150516
+1588,Kevin Abstract,2588,59,414274
+1589,Kenny Beats,2589,65,553536
+1590,Brotha Lynch Hung,2590,47,209868
+1591,DAngelo,2591,60,435605
+1592,Bobby Brown,2592,56,354397
+1593,Chamillionaire,2593,59,414288
+1594,Tony Yayo,2594,54,317879
+1595,Salaam Remi,2595,61,457744
+1596,Drake,2596,95,1723807
+1597,Will Smith,2597,67,606020
+1598,Lil Duval,2598,43,160890
+1599,23,2599,62,480562
+1600,Yasin,2600,61,457686
+1601,Mohel,2601,45,184315
+1602,Ms. Lauryn Hill,2602,70,690966
+1603,Rob Base  DJ EZ Rock,2603,46,196809
+1604,Monie Love,2604,35,86976
+1605,Camila Cabello,2605,82,1109481
+1606,Julia Michaels,2606,74,815997
+1607,Alessia Cara,2607,74,815976
+1608,ZAYN,2608,76,883796
+1609,Selena Gomez,2609,81,1069495
+1610,Hailee Steinfeld,2610,72,751690
+1611,Demi Lovato,2611,81,1069501
+1612,DNCE,2612,71,720914
+1613,Ellie Goulding,2613,78,955191
+1614,Halsey,2614,83,1150475
+1615,Zara Larsson,2615,76,883779
+1616,Madison Beer,2616,72,751749
+1617,Fifth Harmony,2617,68,633524
+1618,Bebe Rexha,2618,80,1030437
+1619,Tove Lo,2619,75,849386
+1620,Niall Horan,2620,75,849382
+1621,Zedd,2621,75,849376
+1622,Jessie J,2622,71,720907
+1623,AnneMarie,2623,76,883774
+1624,Bazzi,2624,73,783433
+1625,Little Mix,2625,77,919051
+1626,Jonas Brothers,2626,75,849396
+1627,Nick Jonas,2627,64,528428
+1628,Lauv,2628,78,955227
+1629,5 Seconds of Summer,2629,78,955259
+1630,The Vamps,2630,69,661800
+1631,Sam Smith,2631,82,1109475
+1632,Troye Sivan,2632,76,883791
+1633,Shawn Mendes,2633,84,1192465
+1634,Rita Ora,2634,73,783405
+1635,Bea Miller,2635,68,633490
+1636,Clean Bandit,2636,75,849389
+1637,Daya,2637,70,690912
+1638,Meghan Trainor,2638,74,815928
+1639,benny blanco,2639,77,919064
+1640,Selena Gomez  The Scene,2640,67,606060
+1641,Olivia OBrien,2641,69,661792
+1642,Ruel,2642,67,606071
+1643,MAX,2643,68,633508
+1644,Noah Cyrus,2644,71,720864
+1645,Charlie Puth,2645,83,1150481
+1646,Liam Payne,2646,65,553527
+1647,Sabrina Carpenter,2647,74,815928
+1648,Why Dont We,2648,71,720897
+1649,Tate McRae,2649,78,955254
+1650,Mabel,2650,70,690912
+1651,Ariana Grande,2651,88,1370776
+1652,Iggy Azalea,2652,69,661813
+1653,Sasha Alex Sloan,2653,70,690952
+1654,Kelly Clarkson,2654,72,751689
+1655,Astrid S,2655,66,579385
+1656,FLETCHER,2656,69,661839
+1657,Katy Perry,2657,83,1150520
+1658,Dua Lipa,2658,88,1370701
+1659,Miley Cyrus,2659,81,1069502
+1660,Jason Derulo,2660,80,1030473
+1661,Kesha,2661,76,883752
+1662,Fergie,2662,69,661839
+1663,Cheat Codes,2663,71,720870
+1664,Jeremy Zucker,2664,72,751725
+1665,James Arthur,2665,79,992371
+1666,AJ Mitchell,2666,63,504097
+1667,Jonas Blue,2667,74,815948
+1668,Charli XCX,2668,77,919004
+1669,PRETTYMUCH,2669,61,457708
+1670,The Wanted,2670,66,579389
+1671,Tinashe,2671,69,661835
+1672,NOTD,2672,67,606016
+1673,JoJo,2673,62,480562
+1674,Lennon Stella,2674,66,579398
+1675,The Chainsmokers,2675,80,1030460
+1676,Olly Murs,2676,65,553489
+1677,Nicki Minaj,2677,86,1279569
+1678,Carly Rae Jepsen,2678,71,720929
+1679,JP Saxe,2679,67,606071
+1680,MKTO,2680,66,579385
+1681,Normani,2681,70,690932
+1682,Marshmello,2682,83,1150503
+1683,Charlotte Lawrence,2683,60,435633
+1684,Jess Glynne,2684,72,751686
+1685,One Direction,2685,84,1192547
+1686,Lorde,2686,76,883768
+1687,Cher Lloyd,2687,62,480536
+1688,Khalid,2688,85,1235484
+1689,Pia Mia,2689,61,457743
+1690,Clinton Kane,2690,68,633512
+1691,HRVY,2691,64,528412
+1692,Christina Aguilera,2692,77,919034
+1693,FINNEAS,2693,70,690904
+1694,Hannah Montana,2694,63,504108
+1695,Ruth B.,2695,75,849436
+1696,Sia,2696,83,1150546
+1697,The Pussycat Dolls,2697,68,633552
+1698,John K,2698,63,504084
+1699,Christina Perri,2699,70,690935
+1700,Gracie Abrams,2700,67,606038
+1701,Mark Ronson,2701,74,815931
+1702,Hayley Kiyoko,2702,62,480531
+1703,Lizzo,2703,80,1030480
+1704,Ashe,2704,69,661846
+1705,Rihanna,2705,87,1324575
+1706,Lady Gaga,2706,84,1192538
+1707,Pink Sweat,2707,70,690943
+1708,Jordin Sparks,2708,61,457691
+1709,Kehlani,2709,76,883757
+1710,James TW,2710,66,579381
+1711,Loote,2711,61,457709
+1712,Years  Years,2712,70,690952
+1713,Bridgit Mendler,2713,61,457705
+1714,Major Lazer,2714,74,815946
+1715,Joshua Bassett,2715,65,553529
+1716,Dean Lewis,2716,75,849435
+1717,The Script,2717,73,783363
+1718,Kim Petras,2718,66,579411
+1719,Jack  Jack,2719,61,457726
+1720,OneRepublic,2720,84,1192495
+1721,Jax Jones,2721,75,849402
+1722,Sam Fischer,2722,66,579383
+1723,King Princess,2723,62,480519
+1724,Rina Sawayama,2724,66,579385
+1725,Alesso,2725,76,883772
+1726,will.i.am,2726,72,751719
+1727,Chloe x Halle,2727,60,435630
+1728,Fly By Midnight,2728,62,480513
+1729,Justin Timberlake,2729,80,1030476
+1730,Adele,2730,84,1192537
+1731,Alexander 23,2731,64,528390
+1732,Maggie Lindemann,2732,65,553533
+1733,Greyson Chance,2733,58,393646
+1734,Gwen Stefani,2734,72,751689
+1735,Pnk,2735,79,992331
+1736,Mimi Webb,2736,65,553523
+1737,DJ Snake,2737,77,919038
+1738,Lewis Capaldi,2738,78,955220
+1739,Birdy,2739,69,661844
+1740,Taylor Swift,2740,94,1670025
+1741,Aly  AJ,2741,59,414256
+1742,Calvin Harris,2742,85,1235555
+1743,SZA,2743,82,1109460
+1744,Kiana Led,2744,64,528414
+1745,Chelsea Cutler,2745,69,661835
+1746,Ella Henderson,2746,75,849393
+1747,Sigala,2747,73,783405
+1748,Johnny Orlando,2748,63,504065
+1749,Colbie Caillat,2749,67,606043
+1750,Maisie Peters,2750,65,553487
+1751,Andy Grammer,2751,70,690928
+1752,Carlie Hanson,2752,51,267932
+1753,Anson Seabra,2753,68,633551
+1754,Kiiara,2754,61,457730
+1755,Ella Mai,2755,70,690941
+1756,Beyonc,2756,88,1370712
+1757,Ciara,2757,68,633525
+1758,Conan Gray,2758,81,1069445
+1759,Cardi B,2759,80,1030429
+1760,H.E.R.,2760,75,849447
+1761,Jessie Reyez,2761,68,633522
+1762,Maroon 5,2762,85,1235537
+1763,James Bay,2763,71,720933
+1764,LANY,2764,74,815982
+1765,Kygo,2765,80,1030469
+1766,Mokita,2766,62,480558
+1767,Austin Mahone,2767,60,435616
+1768,Louis Tomlinson,2768,69,661792
+1769,Ava Max,2769,79,992320
+1770,Gryffin,2770,71,720931
+1771,Sean Kingston,2771,69,661847
+1772,RAYE,2772,70,690934
+1773,Bruno Major,2773,68,633511
+1774,Destinys Child,2774,70,690948
+1775,Trey Songz,2775,69,661824
+1776,Lizzy McAlpine,2776,67,606055
+1777,Jaymes Young,2777,71,720878
+1778,NIKI,2778,76,883765
+1779,Leah Kate,2779,66,579402
+1780,JP Cooper,2780,69,661821
+1781,Avril Lavigne,2781,76,883788
+1782,Megan Thee Stallion,2782,82,1109476
+1783,Allie X,2783,56,354424
+1784,Flo Rida,2784,77,919025
+1785,Mike Posner,2785,70,690920
+1786,Alina Baraz,2786,64,528416
+1787,Harry Styles,2787,91,1515453
+1788,blackbear,2788,80,1030453
+1789,Jeremih,2789,74,815975
+1790,Hey Violet,2790,56,354397
+1791,Nelly Furtado,2791,74,815959
+1792,Britney Spears,2792,80,1030470
+1793,WILLOW,2793,76,883770
+1794,Sleeping At Last,2794,69,661808
+1795,Galantis,2795,74,815949
+1796,SHY Martin,2796,63,504120
+1797,Labrinth,2797,78,955261
+1798,Jhen Aiko,2798,77,919063
+1799,MARINA,2799,73,783432
+1800,Jason Mraz,2800,72,751723
+1801,Victoria Mont,2801,61,457715
+1802,Calum Scott,2802,78,955204
+1803,Nina Nesbitt,2803,60,435617
+1804,Kodaline,2804,70,690955
+1805,Clara Mae,2805,60,435654
+1806,Alicia Keys,2806,77,919039
+1807,Saweetie,2807,73,783385
+1808,Nessa Barrett,2808,69,661827
+1809,Summer Walker,2809,78,955197
+1810,Lauren Spencer Smith,2810,71,720911
+1811,Black Eyed Peas,2811,80,1030417
+1812,The 1975,2812,76,883760
+1813,Alec Benjamin,2813,76,883772
+1814,Azealia Banks,2814,61,457725
+1815,Jesse McCartney,2815,60,435638
+1816,Sabrina Claudio,2816,63,504095
+1817,Miguel,2817,77,919037
+1818,blow,2818,57,373656
+1819,NeYo,2819,77,919055
+1820,Martin Garrix,2820,76,883780
+1821,ROLE MODEL,2821,63,504077
+1822,Lost Kings,2822,59,414240
+1823,David Guetta,2823,87,1324582
+1824,Bruno Mars,2824,87,1324647
+1825,M,2825,69,661801
+1826,Kacey Musgraves,2826,69,661832
+1827,Martin Jensen,2827,67,606033
+1828,Melanie Martinez,2828,78,955198
+1829,Jamie Miller,2829,65,553539
+1830,Jennifer Lopez,2830,75,849419
+1831,Giveon,2831,80,1030468
+1832,Lukas Graham,2832,71,720908
+1833,Taio Cruz,2833,69,661804
+1834,Ashnikko,2834,69,661843
+1835,Valley,2835,61,457713
+1836,Cody Simpson,2836,57,373640
+1837,Marc E. Bassy,2837,62,480513
+1838,Zach Hood,2838,60,435605
+1839,Lily Allen,2839,67,606044
+1840,Usher,2840,78,955203
+1841,Etham,2841,57,373645
+1842,Big Time Rush,2842,67,606072
+1843,BANKS,2843,60,435603
+1844,Chris Brown,2844,87,1324635
+1845,MUNA,2845,60,435644
+1846,RuPaul,2846,58,393597
+1847,Cashmere Cat,2847,56,354377
+1848,James Smith,2848,60,435602
+1849,Train,2849,72,751697
+1850,Addison Rae,2850,46,196821
+1851,Ross Lynch,2851,62,480500
+1852,Blake Rose,2852,61,457735
+1853,John Legend,2853,77,919012
+1854,Leona Lewis,2854,65,553500
+1855,THE DRIVER ERA,2855,62,480516
+1856,Olivia Rodrigo,2856,85,1235515
+1857,City Girls,2857,68,633507
+1858,Qveen Herby,2858,58,393635
+1859,Jake Scott,2859,64,528410
+1860,thuy,2860,61,457729
+1861,Kylie Minogue,2861,68,633520
+1862,Robin Schulz,2862,77,919013
+1863,Flo Milli,2863,66,579411
+1864,Ruelle,2864,62,480535
+1865,Niykee Heaton,2865,54,317898
+1866,LON,2866,63,504075
+1867,HONNE,2867,65,553524
+1868,NEIKED,2868,68,633546
+1869,Chle,2869,63,504098
+1870,Dan  Shay,2870,72,751705
+1871,Hilary Duff,2871,57,373687
+1872,Faouzia,2872,64,528422
+1873,The Saturdays,2873,56,354409
+1874,Mariah Carey,2874,76,883740
+1875,Hozier,2875,76,883786
+1876,Billie Eilish,2876,88,1370754
+1877,Cash Cash,2877,63,504124
+1878,Daniel Caesar,2878,77,919017
+1879,Claire Rosinkranz,2879,64,528425
+1880,Sara Kays,2880,61,457713
+1881,Sam Feldt,2881,73,783434
+1882,Kali Uchis,2882,79,992381
+1883,Luke Hemmings,2883,58,393640
+1884,Bryson Tiller,2884,77,919052
+1885,Gavin James,2885,62,480536
+1886,ASTN,2886,61,457689
+1887,Ellise,2887,61,457722
+1888,vaultboy,2888,63,504108
+1889,Lauren Jauregui,2889,56,354387
+1890,Natasha Bedingfield,2890,64,528413
+1891,Teyana Taylor,2891,61,457717
+1892,The Kid LAROI,2892,82,1109487
+1893,Lost Frequencies,2893,77,919015
+1894,Fiji Blue,2894,62,480518
+1895,PARTYNEXTDOOR,2895,75,849430
+1896,The Carters,2896,55,335819
+1897,RINI,2897,61,457710
+1898,Sara Bareilles,2898,65,553493
+1899,Maggie Rogers,2899,67,606038
+1900,ELIO,2900,60,435618
+1901,Lana Del Rey,2901,86,1279523
+1902,Zella Day,2902,59,414247
+1903,Rudimental,2903,68,633553
+1904,SAYGRACE,2904,57,373644
+1905,Jaira Burns,2905,60,435613
+1906,Kelly Rowland,2906,66,579405
+1907,Justin Bieber,2907,90,1466155
+1908,Macklemore  Ryan Lewis,2908,72,751699
+1909,Todrick Hall,2909,58,393626
+1910,Olivia Holt,2910,51,267926
+1911,Jessie Ware,2911,62,480544
+1912,Rhys Lewis,2912,60,435638
+1913,Seeb,2913,68,633512
+1914,Zendaya,2914,70,690949
+1915,New Hope Club,2915,57,373684
+1916,Jazmine Sullivan,2916,63,504072
+1917,dhruv,2917,68,633538
+1918,Rex Orange County,2918,80,1030469
+1919,BRNS,2919,67,606038
+1920,UPSAHL,2920,61,457694
+1921,Jorja Smith,2921,71,720928
+1922,Pabllo Vittar,2922,64,528418
+1923,Boy In Space,2923,59,414276
+1924,keshi,2924,73,783419
+1925,Matoma,2925,66,579388
+1926,Christian French,2926,60,435660
+1927,Avicii,2927,80,1030409
+1928,DaniLeigh,2928,61,457709
+1929,Felix Jaehn,2929,74,815950
+1930,Chase Atlantic,2930,78,955230
+1931,UMI,2931,62,480553
+1932,X Ambassadors,2932,70,690940
+1933,Ashley Tisdale,2933,53,300581
+1934,dvsn,2934,60,435657
+1935,Pitbull,2935,82,1109471
+1936,Don Toliver,2936,78,955253
+1937,Wrabel,2937,62,480536
+1938,Virginia To Vegas,2938,58,393616
+1939,Conor Maynard,2939,67,606025
+1940,Jessie Murph,2940,63,504096
+1941,Timeflies,2941,55,335827
+1942,Emeli Sand,2942,64,528401
+1943,Maximillian,2943,61,457703
+1944,Luke Chiang,2944,59,414265
+1945,Betty Who,2945,56,354371
+1946,Quinn XCII,2946,67,606027
+1947,R3HAB,2947,76,883739
+1948,Mike Perry,2948,66,579409
+1949,Majid Jordan,2949,66,579387
+1950,Dove Cameron,2950,73,783364
+1951,Anna Clendening,2951,56,354415
+1952,Ed Sheeran,2952,90,1466122
+1953,Latto,2953,73,783365
+1954,Jeff Bernat,2954,60,435655
+1955,VRIT,2955,51,267943
+1956,Noah Kahan,2956,70,690949
+1957,Bree Runway,2957,55,335819
+1958,Florence  The Machine,2958,75,849390
+1959,Gabrielle Aplin,2959,60,435621
+1960,Jaden,2960,69,661831
+1961,Benson Boone,2961,72,751705
+1962,Johnny Stimson,2962,56,354414
+1963,Shoffy,2963,52,283971
+1964,Gentle Bones,2964,56,354418
+1965,Bryce Vine,2965,66,579356
+1966,Mahalia,2966,61,457713
+1967,Bastille,2967,75,849380
+1968,Bishop Briggs,2968,63,504077
+1969,Jasmine Thompson,2969,66,579373
+1970,gnash,2970,64,528407
+1971,joan,2971,52,283962
+1972,Finding Hope,2972,55,335787
+1973,Lykke Li,2973,68,633489
+1974,slchld,2974,58,393596
+1975,Griff,2975,62,480558
+1976,Snakehips,2976,62,480507
+1977,Icona Pop,2977,66,579388
+1978,Axwell  Ingrosso,2978,65,553498
+1979,Mario,2979,64,528418
+1980,COIN,2980,65,553532
+1981,Doja Cat,2981,88,1370707
+1982,James Morrison,2982,63,504063
+1983,Rixton,2983,61,457711
+1984,Alex  Sierra,2984,60,435641
+1985,ayokay,2985,57,373636
+1986,Ali Gatie,2986,71,720917
+1987,Tory Lanez,2987,79,992369
+1988,Loud Luxury,2988,68,633533
+1989,Montell Fish,2989,68,633544
+1990,Vance Joy,2990,75,849410
+1991,The Neighbourhood,2991,83,1150473
+1992,Caroline Polachek,2992,58,393592
+1993,Dounia,2993,46,196804
+1994,Sevyn Streeter,2994,60,435602
+1995,The Fray,2995,68,633497
+1996,Remi Wolf,2996,65,553495
+1997,Tones And I,2997,72,751735
+1998,GEazy,2998,75,849441
+1999,XYL,2999,51,267951
+2000,Kelsea Ballerini,3000,69,661792
+2001,Omar Apollo,3001,67,606033
+2002,Queen Naija,3002,63,504073
+2003,Tom Odell,3003,76,883796
+2004,girl in red,3004,75,849441
+2005,Jake Miller,3005,58,393621
+2006,Trevor Daniel,3006,66,579388
+2007,Nao,3007,58,393604
+2008,Amanda Seyfried,3008,67,606055
+2009,Clairo,3009,75,849393
+2010,Robyn,3010,61,457706
+2011,FKA twigs,3011,64,528425
+2012,BANNERS,3012,66,579379
+2013,Elina,3013,56,354416
+2014,Whitney Houston,3014,75,849413
+2015,Doechii,3015,63,504098
+2016,Sky Ferreira,3016,53,300583
+2017,Becky Hill,3017,77,919016
+2018,Novo Amor,3018,69,661782
+2019,Hot Chelle Rae,3019,59,414281
+2020,Fern.,3020,52,283947
+2021,Hunter Hayes,3021,60,435618
+2022,Wallows,3022,71,720928
+2023,Tems,3023,77,919031
+2024,Fetty Wap,3024,69,661807
+2025,Muni Long,3025,64,528388
+2026,Solange,3026,61,457740
+2027,Lucky Daye,3027,68,633553
+2028,Regard,3028,71,720921
+2029,James Blunt,3029,69,661828
+2030,Keri Hilson,3030,66,579409
+2031,Harriette,3031,57,373678
+2032,PnB Rock,3032,69,661833
+2033,Tom Walker,3033,67,606069
+2034,SYML,3034,69,661826
+2035,AuRa,3035,67,606016
+2036,Sinad Harnett,3036,58,393602
+2037,A R I Z O N A,3037,60,435612
+2038,The Aces,3038,52,283953
+2039,The Veronicas,3039,56,354378
+2040,Sofia Carson,3040,75,849385
+2041,Austin Moon,3041,54,317867
+2042,Diplo,3042,79,992325
+2043,Janelle Mone,3043,65,553478
+2044,Parachute,3044,57,373679
+2045,Joel Corry,3045,75,849418
+2046,Keyshia Cole,3046,65,553495
+2047,Slayyyter,3047,55,335786
+2048,Ari Lennox,3048,66,579395
+2049,Internet Money,3049,73,783412
+2050,Janine,3050,54,317887
+2051,Terror Jr,3051,47,209886
+2052,Ben Platt,3052,65,553497
+2053,Lolo Zoua,3053,53,300580
+2054,Roddy Ricch,3054,80,1030422
+2055,Kailee Morgue,3055,54,317858
+2056,Justine Skye,3056,60,435643
+2057,Bleachers,3057,61,457683
+2058,BENEE,3058,67,606035
+2059,Travis Scott,3059,87,1324656
+2060,Louis The Child,3060,65,553528
+2061,K.Flay,3061,66,579401
+2062,The Cheetah Girls,3062,47,209858
+2063,Rico Nasty,3063,67,606017
+2064,Maren Morris,3064,73,783365
+2065,brb.,3065,58,393601
+2066,Rachel Platten,3066,62,480538
+2067,Transviolet,3067,46,196830
+2068,DaBaby,3068,82,1109521
+2069,Boyce Avenue,3069,70,690949
+2070,Surfaces,3070,72,751748
+2071,Lil Tecca,3071,78,955211
+2072,Aaliyah,3072,66,579412
+2073,Zachary Knowles,3073,53,300601
+2074,Jennifer Hudson,3074,57,373668
+2075,Lloyd,3075,66,579376
+2076,Vanessa Hudgens,3076,64,528393
+2077,The Band CAMINO,3077,62,480521
+2078,Janet Jackson,3078,65,553496
+2079,KYLE,3079,65,553522
+2080,BROODS,3080,56,354376
+2081,Keke Palmer,3081,54,317885
+2082,Jesy Nelson,3082,44,172320
+2083,Winona Oak,3083,55,335789
+2084,Eric Bellinger,3084,63,504093
+2085,Christopher Wilde,3085,52,283936
+2086,Lauren Sanderson,3086,50,252529
+2087,R5,3087,55,335796
+2088,Arizona Zervas,3088,66,579404
+2089,Sonder,3089,62,480532
+2090,Manu Gavassi,3090,54,317844
+2091,Alaina Castillo,3091,52,283931
+2092,lullaboy,3092,54,317896
+2093,Disclosure,3093,72,751688
+2094,Jack Harlow,3094,83,1150480
+2095,Miranda Cosgrove,3095,47,209865
+2096,Mariah the Scientist,3096,56,354404
+2097,Alexander Stewart,3097,56,354391
+2098,MisterWives,3098,59,414289
+2099,Destiny Rogers,3099,55,335777
+2100,Bhad Bhabie,3100,59,414286
+2101,Madonna,3101,77,919017
+2102,Jacquees,3102,65,553495
+2103,gianni  kyle,3103,54,317888
+2104,BIA,3104,67,606025
+2105,Dillon Francis,3105,65,553533
+2106,DVBBS,3106,63,504107
+2107,Sheppard,3107,62,480526
+2108,Swedish House Mafia,3108,76,883734
+2109,iyla,3109,53,300610
+2110,Coldplay,3110,88,1370691
+2111,ILLENIUM,3111,72,751749
+2112,KAYDEN,3112,50,252510
+2113,Sugababes,3113,60,435625
+2114,Peach Tree Rascals,3114,60,435657
+2115,Declan J Donovan,3115,60,435613
+2116,Roy Woods,3116,61,457713
+2117,Zolita,3117,51,267954
+2118,MIKA,3118,66,579351
+2119,Grace VanderWaal,3119,56,354392
+2120,Syd,3120,66,579367
+2121,Tisto,3121,82,1109537
+2122,The Chicks,3122,66,579357
+2123,mxmtoon,3123,67,606035
+2124,Kyle Dion,3124,55,335791
+2125,Forest Blakk,3125,61,457730
+2126,Shygirl,3126,57,373666
+2127,Michael Jackson,3127,81,1069456
+2128,Kid Travis,3128,58,393639
+2129,A Boogie Wit da Hoodie,3129,80,1030420
+2130,dodie,3130,61,457695
+2131,MOTHICA,3131,60,435648
+2132,Dominic Fike,3132,72,751731
+2133,Tink,3133,61,457725
+2134,PVRIS,3134,62,480509
+2135,Mac Ayres,3135,58,393634
+2136,3OH3,3136,62,480534
+2137,MEDUZA,3137,75,849440
+2138,Blxst,3138,73,783436
+2139,Adam Hicks,3139,52,283966
+2140,Ricky Montgomery,3140,70,690970
+2141,88rising,3141,69,661779
+2142,Lil Skies,3142,70,690953
+2143,Ofenbach,3143,70,690964
+2144,Lil Uzi Vert,3144,85,1235503
+2145,Lucy Hale,3145,44,172334
+2146,Nightly,3146,54,317894
+2147,PLVTINUM,3147,59,414262
+2148,demxntia,3148,60,435630
+2149,Spice Girls,3149,68,633502
+2150,Adam Lambert,3150,61,457704
+2151,China Anne McClain,3151,59,414243
+2152,Zac Efron,3152,67,606043
+2153,FRENSHIP,3153,55,335809
+2154,Tori Kelly,3154,66,579372
+2155,Cher,3155,68,633508
+2156,Belinda,3156,71,720906
+2157,Maddie  Tae,3157,63,504089
+2158,Sean Paul,3158,79,992358
+2159,Amber Mark,3159,60,435638
+2160,FLO,3160,55,335783
+2161,Keenan Te,3161,58,393589
+2162,Dylan,3162,56,354396
+2163,Grace Carter,3163,54,317870
+2164,Royal  the Serpent,3164,63,504089
+2165,beabadoobee,3165,72,751692
+2166,SAINt JHN,3166,70,690956
+2167,Danna Paola,3167,75,849398
+2168,Jeremy Passion,3168,55,335812
+2169,SoMo,3169,57,373647
+2170,Gavin DeGraw,3170,62,480516
+2171,William Singe,3171,61,457721
+2172,Poppy,3172,60,435605
+2173,Stephen Sanchez,3173,75,849447
+2174,Said The Sky,3174,58,393592
+2175,Christian Leave,3175,60,435617
+2176,Kaskade,3176,65,553517
+2177,The Knocks,3177,64,528430
+2178,Two Feet,3178,71,720934
+2179,Rangga Jones,3179,51,267912
+2180,Ashley Kutcher,3180,58,393598
+2181,EMELINE,3181,63,504079
+2182,Catie Turner,3182,55,335797
+2183,Matt Maltese,3183,64,528419
+2184,YUNGBLUD,3184,72,751733
+2185,Maddie Zahm,3185,60,435611
+2186,Rosie Darling,3186,58,393628
+2187,Suki Waterhouse,3187,64,528395
+2188,Owl City,3188,68,633498
+2189,LeeHi,3189,65,553524
+2190,Russ,3190,76,883784
+2191,Oh Wonder,3191,67,606054
+2192,Now United,3192,55,335813
+2193,Zhavia,3193,56,354392
+2194,The Weeknd,3194,93,1617456
+2195,SHAED,3195,59,414295
+2196,Ant Saunders,3196,52,283960
+2197,Gen Bello,3197,6,469
+2198,Elley Duh,3198,75,849381
+2199,Lil Nas X,3199,81,1069523
+2200,Wailing Souls,3200,48,223518
+2201,Mighty Diamonds,3201,45,184313
+2202,The Heptones,3202,44,172312
+2203,The Abyssinians,3203,44,172338
+2204,Israel Vibration,3204,52,283972
+2205,Culture,3205,47,209901
+2206,Black Uhuru,3206,46,196819
+2207,Burning Spear,3207,48,223508
+2208,Jacob Miller,3208,46,196794
+2209,Bunny Wailer,3209,50,252535
+2210,Althea And Donna,3210,50,252518
+2211,Dennis Brown,3211,51,267919
+2212,Gregory Isaacs,3212,55,335817
+2213,Aswad,3213,47,209889
+2214,Don Carlos,3214,50,252518
+2215,The Congos,3215,44,172334
+2216,Steel Pulse,3216,55,335806
+2217,The Gladiators,3217,49,237713
+2218,Junior Murvin,3218,43,160868
+2219,Johnny Osbourne,3219,44,172310
+2220,Third World,3220,47,209857
+2221,Sugar Minott,3221,44,172348
+2222,Hugh Mundell,3222,40,129619
+2223,John Holt,3223,49,237738
+2224,Junior Byles,3224,43,160872
+2225,Big Youth,3225,40,129640
+2226,Max Romeo,3226,52,283960
+2227,Joe Higgs,3227,39,120183
+2228,The Wailers,3228,57,373662
+2229,URoy,3229,47,209889
+2230,Pablo Moses,3230,37,102681
+2231,Augustus Pablo,3231,45,184283
+2232,EekAMouse,3232,49,237729
+2233,Lee Scratch Perry,3233,49,237735
+2234,10 Ft. Ganja Plant,3234,46,196820
+2235,The Twinkle Brothers,3235,39,120168
+2236,Johnny Clarke,3236,36,94609
+2237,Freddie McGregor,3237,47,209869
+2238,Yellowman,3238,46,196817
+2239,Yabby You,3239,40,129624
+2240,Linton Kwesi Johnson,3240,43,160894
+2241,Rita Marley,3241,43,160873
+2242,Misty In Roots,3242,30,54926
+2243,Poet and The Roots,3243,35,86998
+2244,IRoy,3244,27,40114
+2245,Dillinger,3245,35,86999
+2246,Mikey Dread,3246,36,94620
+2247,Clinton Fearon,3247,45,184295
+2248,Cornell Campbell,3248,39,120168
+2249,Linval Thompson,3249,34,79778
+2250,King Tubby,3250,44,172327
+2251,The Melodians,3251,42,149976
+2252,Horace Andy,3252,44,172314
+2253,Delroy Wilson,3253,43,160899
+2254,Peter Tosh,3254,55,335800
+2255,Ziggy Marley  The Melody Makers,3255,45,184292
+2256,The Meditations,3256,29,49644
+2257,The Viceroys,3257,42,149940
+2258,The Itals,3258,37,102705
+2259,Ernest Ranglin,3259,44,172334
+2260,Prince Far I,3260,33,72970
+2261,The Ethiopians,3261,42,149955
+2262,Alton Ellis,3262,48,223510
+2263,Ijahman Levi,3263,35,86976
+2264,Barrington Levy,3264,57,373691
+2265,Ken Boothe,3265,45,184280
+2266,Bob Andy,3266,40,129601
+2267,The Upsetters,3267,49,237727
+2268,Niney The Observer,3268,37,102698
+2269,Junior Delgado,3269,30,54913
+2270,Scientist,3270,39,120174
+2271,Sylford Walker,3271,31,60571
+2272,Mutabaruka,3272,30,54920
+2273,Dr. Alimantado,3273,27,40118
+2274,Judy Mowatt,3274,35,86979
+2275,Ini Kamoze,3275,55,335828
+2276,Michael Prophet,3276,28,44709
+2277,Julian Marley,3277,46,196828
+2278,Alpha Blondy,3278,56,354421
+2279,Groundation,3279,49,237722
+2280,Inner Circle,3280,59,414267
+2281,Black Roots,3281,31,60554
+2282,Lacksley Castell,3282,29,49621
+2283,Macka B,3283,42,149980
+2284,Barry Brown,3284,28,44707
+2285,Jimmy Cliff,3285,60,435650
+2286,Prince Alla,3286,37,102709
+2287,Tenor Saw,3287,35,86977
+2288,The Aggrovators,3288,43,160882
+2289,Jackie Mittoo,3289,44,172318
+2290,Marcia Griffiths,3290,46,196828
+2291,Stephen Marley,3291,59,414284
+2292,Ziggy Marley,3292,56,354416
+2293,Jonny Clarke,3293,22,21802
+2294,Ras Michael and The Sons Of Negus,3294,27,40122
+2295,Midnite,3295,37,102692
+2296,Leroy Smart,3296,28,44714
+2297,Suger Minott,3297,4,147
+2298,Bim Sherman,3298,27,40116
+2299,Cocoa Tea,3299,45,184317
+2300,Prince Jammy,3300,32,66587
+2301,Peter Broggs,3301,26,35830
+2302,Keith Hudson,3302,31,60555
+2303,KIDDUS I,3303,29,49629
+2304,Half Pint,3304,41,139539
+2305,Wayne Jarrett,3305,27,40116
+2306,Easy Star AllStars,3306,46,196834
+2307,Rockers All Stars,3307,26,35839
+2308,Tommy McCook,3308,38,111191
+2309,Toots  The Maytals,3309,54,317883
+2310,Tappa Zukie,3310,27,40113
+2311,Desmond Dekker,3311,50,252534
+2312,Toots Hibbert,3312,41,139559
+2313,The Revolutionaries,3313,32,66591
+2314,Mykal Rose,3314,38,111198
+2315,Dezarie,3315,41,139537
+2316,Pablo Gad,3316,27,40118
+2317,The Maytals,3317,47,209881
+2318,Derrick Harriott,3318,40,129635
+2319,Justin Hinds,3319,33,72980
+2320,Dennis Alcapone,3320,29,49646
+2321,Al Campbell,3321,29,49632
+2322,Andrew Tosh,3322,25,31899
+2323,Tribal Seeds,3323,53,300609
+2324,Hopeton Lewis,3324,39,120168
+2325,Don Carlos In Dub,3325,10,2105
+2326,Cultural Roots,3326,27,40120
+2327,Luciano,3327,43,160881
+2328,Jimmy C,3328,10,2103
+2329,The Techniques,3329,32,66587
+2330,Lee Perry  The Upsetters,3330,25,31893
+2331,The Paragons,3331,42,149981
+2332,Mad Professor,3332,43,160900
+2333,Morgan Heritage,3333,48,223491
+2334,The Silvertones,3334,26,35834
+2335,The Skatalites,3335,46,196816
+2336,Errol Dunkley,3336,36,94618
+2337,Anthony B,3337,50,252509
+2338,The Pioneers,3338,38,111223
+2339,Lucky Dube,3339,54,317868
+2340,Fred Locks,3340,28,44700
+2341,Dennis Bovell,3341,38,111200
+2342,Phyllis Dillon,3342,40,129623
+2343,Lone Ranger,3343,34,79785
+2344,Prince Buster,3344,41,139524
+2345,The Maytones,3345,28,44700
+2346,John Browns Body,3346,39,120175
+2347,Prince Jazzbo,3347,30,54912
+2348,Derrick Morgan,3348,32,66590
+2349,Soul Syndicate,3349,24,28236
+2350,Junior Reid,3350,45,184305
+2351,Matumbi,3351,29,49619
+2352,Tetrack,3352,10,2103
+2353,Dawn Penn,3353,47,209892
+2354,Slim Smith,3354,31,60561
+2355,MIlton Henry,3355,31,60571
+2356,Maxi Priest,3356,50,252502
+2357,Jah Shaka,3357,29,49641
+2358,Delroy Washington,3358,12,3609
+2359,Triston Palma,3359,28,44708
+2360,Alborosie,3360,57,373670
+2361,Junior Kelly,3361,45,184298
+2362,Apple Gabriel,3362,33,72971
+2363,Tarrus Riley,3363,58,393642
+2364,Black Slate,3364,30,54903
+2365,Martin Campbell,3365,30,54902
+2366,Bushman,3366,41,139563
+2367,KyMani Marley,3367,57,373670
+2368,Dub Specialist,3368,27,40122
+2369,Israel VibrationCocoa Tea,3369,12,3600
+2370,Pat Kelly,3370,31,60567
+2371,Capleton,3371,56,354382
+2372,Dandy Livingstone,3372,42,149959
+2373,Rod Taylor,3373,26,35850
+2374,Eric Donaldson,3374,41,139564
+2375,Sly  Robbie,3375,46,196810
+2376,Pato Banton,3376,44,172332
+2377,Capital Letters,3377,27,40102
+2378,Tiken Jah Fakoly,3378,49,237736
+2379,Damian Marley,3379,65,553525
+2380,The Gaylads,3380,31,60572
+2381,Anthony Johnson,3381,27,40099
+2382,Sizzla,3382,58,393610
+2383,Creation Rebel,3383,23,24864
+2384,Warrior King,3384,32,66577
+2385,Frankie Paul,3385,37,102708
+2386,Ranking Dread,3386,22,21798
+2387,Errol Walker,3387,3,63
+2388,The Slickers,3388,36,94629
+2389,Sister Nancy,3389,51,267938
+2390,Bob Marley Vs. Paco,3390,1,3
+2391,Dub Syndicate,3391,28,44706
+2392,Big Mountain,3392,55,335829
+2393,Bob Marley  The Wailers,3393,78,955218
+2394,Wackies,3394,26,35848
+2395,The Rastafarians,3395,27,40107
+2396,Buju Banton,3396,58,393603
+2397,Mokalamity,3397,50,252520
+2398,Joe Gibbs  The Professionals,3398,28,44709
+2399,Bitty McLean,3399,40,129628
+2400,Love Joys,3400,28,44714
+2401,Freddie McKay,3401,28,44709
+2402,SOJA,3402,60,435657
+2403,Willie Williams,3403,29,49628
+2404,Bambu Station,3404,27,40116
+2405,Don Carlos Music,3405,28,44691
+2406,Garnett Silk,3406,42,149981
+2407,Lauren Aitken,3407,2,22
+2408,Kapten Rd,3408,47,209902
+2409,Kaliffa,3409,43,160873
+2410,Gondwana,3410,60,435601
+2411,Fantan Mojah,3411,43,160899
+2412,Cultura Proftica,3412,63,504104
+2413,Los Cafres,3413,61,457691
+2414,Jesse Royal,3414,44,172309
+2415,Tanya Stephens,3415,45,184299
+2416,Protoje,3416,57,373652
+2417,Sara Lugo,3417,37,102703
+2418,Tony Rebel,3418,38,111191
+2419,Jah Mason,3419,38,111188
+2420,Kabaka Pyramid,3420,51,267918
+2421,Beres Hammond,3421,51,267904
+2422,Pressure,3422,39,120177
+2423,Shenseea,3423,66,579395
+2424,Estelle,3424,65,553485
+2425,Sanchez,3425,45,184284
+2426,Jah9,3426,37,102711
+2427,Beres Hammond  Zap Pow,3427,29,49624
+2428,Billy Boyo,3428,38,111196
+2429,Richie Spice,3429,46,196796
+2430,Queen Ifrica,3430,41,139544
+2431,I Wayne,3431,44,172311
+2432,Musical Youth,3432,64,528388
+2433,Chaka Demus  Pliers,3433,55,335784
+2434,UB40,3434,68,633528
+2435,Pierpoljak,3435,42,149940
+2436,Shaggy,3436,72,751718
+2437,Tonton David,3437,29,49622
+2438,Etana,3438,44,172312
+2439,Daville,3439,36,94622
+2440,KOD,3440,28,44697
+2441,The Specials,3441,54,317868
+2442,Bad Bunny,3442,100,2010059
+2443,Pure Negga,3443,62,480553
+2444,Ganja,3444,39,120178
+2445,Los Pericos,3445,63,504100
+2446,King Chango,3446,44,172319
+2447,DEKKO,3447,68,633522
+2448,Temple Sour,3448,46,196815
+2449,Nicki Nicole,3449,78,955196
+2450,Zona Ganjah,3450,59,414290
+2451,Gepe,3451,56,354369
+2452,Vicente Garcia,3452,62,480525
+2453,Rawayana,3453,57,373655
+2454,Nonpalidece,3454,54,317855
+2455,Micro TDH,3455,68,633524
+2456,Dread Mar I,3456,70,690957
+2457,Caloncho,3457,64,528388
+2458,Greeicy,3458,69,661792
+2459,Intoxicados,3459,60,435654
+2460,Macaco,3460,60,435658
+2461,Kameleba,3461,46,196788
+2462,Alkilados,3462,56,354415
+2463,Golden Ganga,3463,47,209873
+2464,Okills,3464,45,184293
+2465,Tommy Torres,3465,61,457731
+2466,Bahiano,3466,47,209885
+2467,Quique Neira,3467,47,209867
+2468,Antidoping,3468,40,129622
+2469,ejo,3469,68,633507
+2470,Matisse,3470,69,661796
+2471,Resistencia Suburbana,3471,47,209860
+2472,Sie7e,3472,50,252524
+2473,Rastacuando,3473,37,102693
+2474,El Natty Combo,3474,35,86987
+2475,Laguna Pai,3475,45,184289
+2476,Riddim,3476,41,139564
+2477,MAMA GAIA,3477,28,44706
+2478,Sergent Garcia,3478,38,111209
+2479,Flor de Toloache,3479,40,129617
+2480,Juan Pablo Vega,3480,47,209881
+2481,Maffio,3481,59,414290
+2482,Kio,3482,44,172324
+2483,Sig Ragga,3483,34,79798
+2484,La Floripondio,3484,35,86983
+2485,Los Afro Brothers,3485,33,72991
+2486,Green Valley,3486,52,283931
+2487,La Garfield,3487,51,267913
+2488,Los Aguas Aguas,3488,45,184285
+2489,Rondamon,3489,33,72974
+2490,Caaman,3490,25,31896
+2491,Nanpa Bsico,3491,70,690910
+2492,Cestar,3492,43,160878
+2493,Hugo Lobo,3493,32,66592
+2494,Spiritual Reggae Band,3494,27,40118
+2495,Pachyman,3495,38,111221
+2496,Skip Marley,3496,57,373692
+2497,Lila Ik,3497,50,252517
+2498,Jaz Karis,3498,49,237732
+2499,Sevana,3499,42,149972
+2500,Samory I,3500,37,102709
+2501,Navy,3501,39,120160
+2502,Bugle,3502,42,149952
+2503,Chronixx,3503,60,435619
+2504,Gyptian,3504,56,354395
+2505,Jah Cure,3505,50,252537
+2506,Reggae Roast,3506,31,60554
+2507,Collie Buddz,3507,61,457715
+2508,Runkus,3508,37,102702
+2509,Kes,3509,49,237724
+2510,Mellow Mood,3510,46,196810
+2511,Gentlemans Dub Club,3511,41,139556
+2512,Danakil,3512,47,209902
+2513,A92,3513,53,300584
+2514,Beenie Man,3514,60,435629
+2515,Lion D,3515,39,120169
+2516,Patrick,3516,16,8450
+2517,Wayne Marshall,3517,34,79774
+2518,Claye,3518,28,44694
+2519,Mr. Williamz,3519,40,129610
+2520,WSTRN,3520,58,393598
+2521,Alicai Harley,3521,43,160879
+2522,Through The Roots,3522,43,160886
+2523,Greentea Peng,3523,56,354424
+2524,Giggs,3524,61,457740
+2525,Matisyahu,3525,57,373681
+2526,Nesta,3526,38,111205
+2527,Jugglerz,3527,53,300583
+2528,AWA,3528,45,184284
+2529,Koffee,3529,61,457740
+2530,Stefflon Don,3530,67,606025
+2531,Frisco,3531,45,184316
+2532,Liquid,3532,27,40097
+2533,Chillaa,3533,19,14092
+2534,Yaniss Odua,3534,42,149966
+2535,Cashh,3535,39,120168
+2536,Master Peace,3536,42,149978
+2537,Matthew Bento,3537,32,66581
+2538,Headie One,3538,69,661813
+2539,Kevyn V,3539,11,2792
+2540,Aluna,3540,62,480534
+2541,Prince Fatty,3541,46,196794
+2542,Doktor,3542,39,120189
+2543,RoRo,3543,24,28232
+2544,Dub Inc,3544,53,300581
+2545,Gentleman,3545,59,414251
+2546,Stick Figure,3546,66,579379
+2547,LEntourloop,3547,54,317862
+2548,Shwayze,3548,54,317846
+2549,Big Red,3549,35,86991
+2550,Busy Signal,3550,59,414245
+2551,BigaRanx,3551,57,373674
+2552,Volodia,3552,34,79765
+2553,Mihali,3553,43,160868
+2554,Cedric Myton,3554,33,72995
+2555,Omar Perry,3555,29,49636
+2556,Prendy,3556,31,60559
+2557,Taro,3557,48,223533
+2558,Bobby Hustle,3558,35,86996
+2559,Aston Barrett Jr.,3559,15,6986
+2560,Fatbabs,3560,35,86979
+2561,The Black Seeds,3561,45,184296
+2562,Manu Chao,3562,67,606078
+2563,Delasierra,3563,31,60554
+2564,Providencia,3564,31,60556
+2565,Carlos Vives,3565,74,815932
+2566,La Tifa,3566,29,49643
+2567,Movimiento Original,3567,61,457734
+2568,Morodo,3568,53,300609
+2569,Alade,3569,32,66563
+2570,Ezequiel Borra,3570,33,72989
+2571,Olaya Sound System,3571,35,86992
+2572,Mimi Maura,3572,45,184275
+2573,La Merfi,3573,16,8452
+2574,De Bruces A Mi,3574,29,49633
+2575,Don Pli,3575,14,5686
+2576,Los Guardianes de Gregory,3576,27,40108
+2577,Luis Alcivar,3577,17,10129
+2578,Chusterfield,3578,51,267935
+2579,Mentes Comunes,3579,18,12003
+2580,Bamboo,3580,22,21789
+2581,Fidel Nadal,3581,48,223504
+2582,Raices y Cultura,3582,30,54922
+2583,Lion Reggae,3583,36,94635
+2584,KLUB,3584,36,94616
+2585,Mamita Peyote,3585,27,40119
+2586,Melodycans,3586,28,44690
+2587,Isza,3587,19,14091
+2588,Kalacawas,3588,21,18982
+2589,Mensajeros Reggae,3589,27,40101
+2590,Contravos,3590,19,14092
+2591,Dos Garza,3591,24,28230
+2592,Tarar,3592,10,2101
+2593,Amy Winehouse,3593,74,815926
+2594,Sting,3594,70,690930
+2595,Natural Vibrations,3595,38,111222
+2596,The Slackers,3596,40,129638
+2597,Positive Reggae Vibrations,3597,10,2100
+2598,Natiruts,3598,66,579403
+2599,El Kuelgue,3599,55,335814
+2600,Moral Distraida,3600,48,223509
+2601,Sarah Menescal,3601,60,435657
+2602,Leonchalon,3602,29,49641
+2603,Dancing Mood,3603,44,172312
+2604,12 Tribus,3604,28,44709
+2605,Sondelvalle,3605,34,79778
+2606,Gaspar OM,3606,25,31891
+2607,Planta  Canta,3607,20,16409
+2608,Lumumba Oficial,3608,28,44711
+2609,Matamba,3609,33,72980
+2610,An Espil,3610,31,60568
+2611,BRAZA,3611,44,172321
+2612,10cc,3612,60,435606
+2613,Laid Back,3613,52,283923
+2614,TEEKS,3614,52,283972
+2615,Hortense Ellis,3615,27,40110
+2616,The Clarendonians,3616,27,40116
+2617,Carlton  The Shoes,3617,31,60554
+2618,Pablove Black and The New Establishment,3618,16,8457
+2619,Hugh Godfrey,3619,19,14079
+2620,The Bongo Man,3620,19,14092
+2621,The Soul Brothers,3621,30,54906
+2622,Owen Gray,3622,27,40100
+2623,Brentford All Stars,3623,2,20
+2624,Im and Sound Dimension,3624,0,0
+2625,Prince Lincoln,3625,5,275
+2626,Drum Bago and Rebel Group,3626,0,0
+2627,Lord Tanamo,3627,31,60561
+2628,The Termites,3628,21,18984
+2629,The Royals,3629,13,4569
+2630,Don Drummond  The Skatalites  Heavenless,3630,0,0
+2631,Anthony Rocky Ellis,3631,14,5685
+2632,Lester Sterling,3632,28,44689
+2633,Roy Richards,3633,17,10130
+2634,The Ethiopian,3634,15,6990
+2635,Pablove Black,3635,20,16412
+2636,Zoot Simms,3636,16,8457
+2637,The Bassies,3637,10,2104
+2638,New Establishment,3638,16,8454
+2639,Lennie Hibbert,3639,25,31894
+2640,Linton Cooper w. The Brentford Disco Set,3640,0,0
+2641,Sound Dimension,3641,17,10124
+2642,Liberation Group,3642,16,8459
+2643,Cannon  The Soul Vendors,3643,0,0
+2644,Sugar Belly,3644,15,6989
+2645,Lloyd Williams,3645,17,10123
+2646,Jackie Mittoo  Ernest Ranglin,3646,0,0
+2647,The Who,3647,68,633524
+2648,Van Halen,3648,71,720932
+2649,Boston,3649,65,553503
+2650,Led Zeppelin,3650,76,883800
+2651,Tom Petty and the Heartbreakers,3651,67,606028
+2652,Thin Lizzy,3652,63,504110
+2653,The Black Crowes,3653,61,457733
+2654,Blue yster Cult,3654,62,480522
+2655,The Cars,3655,65,553523
+2656,Lynyrd Skynyrd,3656,72,751705
+2657,Steve Miller Band,3657,66,579366
+2658,Cheap Trick,3658,62,480516
+2659,The White Stripes,3659,70,690922
+2660,Alice Cooper,3660,63,504067
+2661,Soundgarden,3661,66,579394
+2662,Rush,3662,66,579363
+2663,Black Sabbath,3663,72,751713
+2664,Tom Petty,3664,68,633522
+2665,The Cult,3665,60,435614
+2666,Ozzy Osbourne,3666,71,720867
+2667,BachmanTurner Overdrive,3667,60,435645
+2668,Deep Purple,3668,66,579374
+2669,Heart,3669,66,579407
+2670,Bad Company,3670,59,414261
+2671,The J. Geils Band,3671,60,435654
+2672,Ted Nugent,3672,55,335830
+2673,Peter Frampton,3673,59,414256
+2674,Billy Idol,3674,68,633510
+2675,Billy Squier,3675,60,435652
+2676,Stone Temple Pilots,3676,66,579374
+2677,The Kinks,3677,65,553537
+2678,Audioslave,3678,68,633501
+2679,Grand Funk Railroad,3679,58,393592
+2680,The Police,3680,74,815947
+2681,Blur,3681,67,606021
+2682,Queens of the Stone Age,3682,68,633526
+2683,John Mellencamp,3683,66,579365
+2684,The Raconteurs,3684,58,393620
+2685,Steppenwolf,3685,61,457725
+2686,Faces,3686,59,414252
+2687,Pretenders,3687,62,480557
+2688,Velvet Revolver,3688,56,354400
+2689,The Doobie Brothers,3689,66,579409
+2690,Foreigner,3690,68,633498
+2691,The Guess Who,3691,57,373645
+2692,Kansas,3692,65,553538
+2693,George Harrison,3693,66,579354
+2694,Styx,3694,63,504079
+2695,Dio,3695,62,480536
+2696,Wolfmother,3696,61,457685
+2697,Alice In Chains,3697,70,690962
+2698,Aerosmith,3698,75,849390
+2699,Blind Melon,3699,61,457734
+2700,Foghat,3700,54,317861
+2701,Rainbow,3701,60,435654
+2702,The Smashing Pumpkins,3702,71,720921
+2703,Eddie Money,3703,59,414290
+2704,Janes Addiction,3704,58,393625
+2705,Sammy Hagar,3705,57,373660
+2706,Judas Priest,3706,66,579396
+2707,Whitesnake,3707,64,528386
+2708,The Doors,3708,72,751697
+2709,Bob Seger,3709,67,606067
+2710,The Clash,3710,70,690909
+2711,Pearl Jam,3711,74,815952
+2712,Skid Row,3712,61,457738
+2713,Quiet Riot,3713,59,414240
+2714,T. Rex,3714,61,457711
+2715,Huey Lewis  The News,3715,64,528404
+2716,Collective Soul,3716,61,457731
+2717,Them Crooked Vultures,3717,50,252530
+2718,Don Henley,3718,64,528396
+2719,The Band,3719,61,457691
+2720,April Wine,3720,54,317863
+2721,Robert Plant,3721,58,393629
+2722,Rage Against The Machine,3722,71,720927
+2723,Traveling Wilburys,3723,60,435635
+2724,Foo Fighters,3724,77,919047
+2725,Twisted Sister,3725,62,480521
+2726,38 Special,3726,59,414240
+2727,Wings,3727,63,504111
+2728,Motrhead,3728,65,553475
+2729,The Velvet Underground,3729,62,480514
+2730,UFO,3730,51,267923
+2731,REO Speedwagon,3731,64,528412
+2732,The Moody Blues,3732,59,414278
+2733,The Byrds,3733,57,373665
+2734,KISS,3734,73,783433
+2735,Faith No More,3735,61,457700
+2736,The Animals,3736,63,504063
+2737,Traffic,3737,51,267924
+2738,Steely Dan,3738,67,606053
+2739,Black Label Society,3739,59,414245
+2740,Mtley Cre,3740,71,720925
+2741,Primus,3741,58,393625
+2742,Ramones,3742,66,579352
+2743,Bush,3743,62,480509
+2744,Electric Light Orchestra,3744,70,690959
+2745,Temple Of The Dog,3745,57,373673
+2746,Tesla,3746,54,317896
+2747,Cinderella,3747,58,393626
+2748,Triumph,3748,47,209868
+2749,Great White,3749,53,300602
+2750,Three Dog Night,3750,60,435641
+2751,Megadeth,3751,71,720933
+2752,Pantera,3752,68,633533
+2753,Creedence Clearwater Revival,3753,77,919024
+2754,Molly Hatchet,3754,49,237734
+2755,Jefferson Airplane,3755,60,435643
+2756,Pixies,3756,69,661847
+2757,Badfinger,3757,59,414267
+2758,The Vines,3758,56,354375
+2759,Airbourne,3759,60,435655
+2760,Supertramp,3760,68,633537
+2761,Loverboy,3761,56,354373
+2762,Ratt,3762,56,354403
+2763,R.E.M.,3763,72,751704
+2764,Pat Benatar,3764,62,480530
+2765,Beck,3765,65,553528
+2766,Chris Cornell,3766,60,435629
+2767,Robert Palmer,3767,60,435650
+2768,The Verve,3768,65,553533
+2769,Royal Blood,3769,63,504113
+2770,Slash,3770,58,393592
+2771,John Lennon,3771,68,633554
+2772,James Gang,3772,51,267934
+2773,Nazareth,3773,59,414257
+2774,Mad Season,3774,51,267934
+2775,Franz Ferdinand,3775,65,553513
+2776,Jethro Tull,3776,58,393603
+2777,Dire Straits,3777,74,815943
+2778,Kaiser Chiefs,3778,60,435603
+2779,David Lee Roth,3779,51,267943
+2780,Kasabian,3780,63,504076
+2781,Talking Heads,3781,68,633513
+2782,Donovan,3782,57,373635
+2783,Pulp,3783,60,435646
+2784,INXS,3784,68,633500
+2785,David Bowie,3785,76,883779
+2786,Live,3786,61,457728
+2787,Dokken,3787,52,283953
+2788,Scorpions,3788,72,751680
+2789,Crosby Stills  Nash,3789,59,414251
+2790,Lou Reed,3790,61,457719
+2791,Jackson Browne,3791,62,480512
+2792,Iron Maiden,3792,74,815966
+2793,Manic Street Preachers,3793,55,335806
+2794,A Perfect Circle,3794,61,457738
+2795,Little Feat,3795,55,335827
+2796,TOOL,3796,69,661828
+2797,Eagles,3797,75,849402
+2798,The Wallflowers,3798,58,393603
+2799,Guns N Roses,3799,79,992366
+2800,Queensrche,3800,55,335811
+2801,The Fratellis,3801,61,457684
+2802,Cold War Kids,3802,60,435634
+2803,Supergrass,3803,58,393605
+2804,White Zombie,3804,57,373664
+2805,CAKE,3805,61,457684
+2806,The Hives,3806,59,414243
+2807,Black Rebel Motorcycle Club,3807,53,300591
+2808,The Zombies,3808,59,414252
+2809,Bob Dylan,3809,70,690906
+2810,Jefferson Starship,3810,52,283953
+2811,W.A.S.P.,3811,55,335821
+2812,The Stooges,3812,53,300571
+2813,Warren Zevon,3813,56,354368
+2814,The Marshall Tucker Band,3814,58,393643
+2815,Roxy Music,3815,60,435618
+2816,Poison,3816,63,504118
+2817,Band Of Skulls,3817,46,196825
+2818,Anthrax,3818,57,373682
+2819,Night Ranger,3819,53,300599
+2820,Pete Townshend,3820,50,252536
+2821,The Hollies,3821,60,435605
+2822,Lenny Kravitz,3822,68,633501
+2823,The Strokes,3823,75,849413
+2824,The Last Shadow Puppets,3824,61,457706
+2825,Ringo Starr,3825,54,317890
+2826,Steve Winwood,3826,61,457701
+2827,Frank Zappa,3827,58,393594
+2828,The Vaccines,3828,58,393643
+2829,Hole,3829,60,435608
+2830,Jack White,3830,60,435649
+2831,Black Pistol Fire,3831,50,252529
+2832,The Libertines,3832,56,354415
+2833,The Bangles,3833,61,457727
+2834,Paul McCartney,3834,68,633507
+2835,Sweet,3835,59,414253
+2836,Joe Jackson,3836,57,373656
+2837,Interpol,3837,64,528447
+2838,Pink Floyd,3838,78,955238
+2839,Soul Asylum,3839,56,354387
+2840,The Presidents Of The United States Of America,3840,58,393625
+2841,Blondie,3841,69,661822
+2842,Incubus,3842,68,633519
+2843,Crosby Stills Nash  Young,3843,57,373692
+2844,Joy Division,3844,63,504091
+2845,Warrant,3845,56,354413
+2846,Paul Simon,3846,68,633533
+2847,Oasis,3847,75,849421
+2848,The Jam,3848,58,393630
+2849,Eagles Of Death Metal,3849,54,317884
+2850,Nine Inch Nails,3850,65,553515
+2851,The Heavy,3851,58,393592
+2852,Iggy Pop,3852,63,504104
+2853,Journey,3853,74,815961
+2854,Montrose,3854,44,172319
+2855,Stereophonics,3855,63,504112
+2856,Peter Gabriel,3856,63,504112
+2857,grandson,3857,67,606064
+2858,The Dandy Warhols,3858,56,354395
+2859,Accept,3859,58,393628
+2860,Grateful Dead,3860,66,579353
+2861,Cage The Elephant,3861,73,783374
+2862,Silversun Pickups,3862,57,373638
+2863,Genesis,3863,67,606023
+2864,Noel Gallaghers High Flying Birds,3864,57,373689
+2865,Garbage,3865,58,393646
+2866,Danzig,3866,61,457713
+2867,Feeder,3867,51,267912
+2868,Days Of The New,3868,53,300579
+2869,Young the Giant,3869,66,579366
+2870,Bruce Springsteen,3870,74,815950
+2871,Rival Sons,3871,52,283933
+2872,The Stone Roses,3872,60,435611
+2873,Puddle Of Mudd,3873,62,480541
+2874,Reignwolf,3874,52,283962
+2875,The Monkees,3875,62,480524
+2876,Badflower,3876,56,354420
+2877,Palaye Royale,3877,62,480514
+2878,Def Leppard,3878,69,661823
+2879,Nirvana,3879,80,1030443
+2880,John Frusciante,3880,54,317878
+2881,Weezer,3881,73,783363
+2882,Nothing But Thieves,3882,65,553501
+2883,Silverchair,3883,60,435654
+2884,Jet,3884,61,457744
+2885,Jimmy Eat World,3885,66,579388
+2886,Janis Joplin,3886,62,480545
+2887,Echo  the Bunnymen,3887,56,354409
+2888,Local H,3888,52,283960
+2889,Van Morrison,3889,71,720922
+2890,Harry Nilsson,3890,59,414293
+2891,Slayer,3891,65,553516
+2892,Our Lady Peace,3892,53,300616
+2893,Grouplove,3893,64,528437
+2894,Jackyl,3894,49,237716
+2895,Helmet,3895,52,283959
+2896,U2,3896,76,883778
+2897,The Blue Stones,3897,55,335804
+2898,Buffalo Springfield,3898,61,457736
+2899,Everclear,3899,59,414270
+2900,Gin Blossoms,3900,58,393636
+2901,America,3901,65,553487
+2902,Sonic Youth,3902,58,393634
+2903,The Smiths,3903,75,849432
+2904,The GoGos,3904,56,354396
+2905,Foster The People,3905,71,720870
+2906,Elvis Costello  The Attractions,3906,54,317864
+2907,AWOLNATION,3907,61,457744
+2908,Radiohead,3908,78,955242
+2909,The Offspring,3909,75,849380
+2910,The Hunna,3910,54,317854
+2911,Love,3911,51,267922
+2912,The Lovin Spoonful,3912,58,393590
+2913,Muse,3913,77,919054
+2914,Buckcherry,3914,58,393620
+2915,Saxon,3915,51,267916
+2916,Miles Kane,3916,60,435605
+2917,The Kooks,3917,67,606070
+2918,Travis,3918,60,435660
+2919,Candlebox,3919,53,300611
+2920,Editors,3920,56,354414
+2921,The Arcs,3921,48,223517
+2922,Metallica,3922,82,1109490
+2923,Alter Bridge,3923,61,457727
+2924,The Cure,3924,73,783389
+2925,Simon  Garfunkel,3925,70,690924
+2926,The Darkness,3926,55,335787
+2927,Humble Pie,3927,44,172331
+2928,Filter,3928,57,373648
+2929,You Me At Six,3929,59,414284
+2930,Mother Love Bone,3930,46,196827
+2931,The Waterboys,3931,55,335780
+2932,Elvis Costello,3932,58,393593
+2933,Screaming Trees,3933,47,209875
+2934,White Lies,3934,56,354368
+2935,Blossoms,3935,58,393599
+2936,Circa Waves,3936,56,354419
+2937,Third Eye Blind,3937,63,504073
+2938,Uriah Heep,3938,52,283944
+2939,Jeff Buckley,3939,60,435660
+2940,Tenacious D,3940,61,457723
+2941,Yes,3941,60,435646
+2942,cleopatrick,3942,53,300580
+2943,Ace Frehley,3943,49,237745
+2944,Radio Moscow,3944,45,184277
+2945,DREAMERS,3945,58,393612
+2946,Toadies,3946,53,300594
+2947,Morrissey,3947,59,414250
+2948,Krokus,3948,45,184318
+2949,Des Rocs,3949,53,300606
+2950,Razorlight,3950,58,393616
+2951,The Tragically Hip,3951,59,414249
+2952,Ugly Kid Joe,3952,54,317857
+2953,Type O Negative,3953,57,373668
+2954,Primal Scream,3954,55,335794
+2955,Bryan Ferry,3955,58,393638
+2956,All Time Low,3956,69,661840
+2957,311,3957,61,457737
+2958,Stone Sour,3958,63,504110
+2959,Neil Young,3959,61,457716
+2960,The Kills,3960,50,252525
+2961,Sea Girls,3961,53,300566
+2962,The B52s,3962,60,435636
+2963,Sepultura,3963,58,393617
+2964,King Crimson,3964,54,317866
+2965,Blackfoot,3965,45,184317
+2966,Catfish and the Bottlemen,3966,63,504085
+2967,Toad The Wet Sprocket,3967,50,252537
+2968,Daryl Hall  John Oates,3968,70,690935
+2969,Todd Rundgren,3969,56,354419
+2970,Sundara Karma,3970,50,252513
+2971,Eurythmics,3971,67,606082
+2972,The Wombats,3972,66,579360
+2973,The Mamas  The Papas,3973,65,553484
+2974,Foals,3974,64,528415
+2975,Courteeners,3975,55,335786
+2976,Death From Above 1979,3976,49,237722
+2977,Small Faces,3977,47,209857
+2978,The Unlikely Candidates,3978,53,300577
+2979,Europe,3979,64,528446
+2980,Simple Minds,3980,66,579358
+2981,Damn Yankees,3981,47,209878
+2982,Spin Doctors,3982,58,393619
+2983,Sheryl Crow,3983,66,579378
+2984,Emerson Lake  Palmer,3984,50,252510
+2985,The Dead Weather,3985,44,172343
+2986,The Maine,3986,58,393607
+2987,The Spencer Davis Group,3987,53,300574
+2988,The Beach Boys,3988,72,751716
+2989,WALK THE MOON,3989,68,633492
+2990,Waterparks,3990,62,480549
+2991,Chevelle,3991,62,480526
+2992,Joe Cocker,3992,64,528426
+2993,Highly Suspect,3993,61,457691
+2994,Survivor,3994,66,579363
+2995,Barns Courtney,3995,61,457701
+2996,Crowded House,3996,64,528410
+2997,Little River Band,3997,59,414296
+2998,Neon Trees,3998,66,579398
+2999,Placebo,3999,66,579384
+3000,MISSIO,4000,59,414248
+3001,Jerry Cantrell,4001,44,172308
+3002,Two Door Cinema Club,4002,68,633503
+3003,Mayday Parade,4003,60,435612
+3004,Set It Off,4004,65,553531
+3005,Rob Zombie,4005,65,553540
+3006,YT,4006,45,184318
+3007,Patti Smith,4007,57,373663
+3008,The Stranglers,4008,57,373644
+3009,Kyuss,4009,50,252532
+3010,I DONT KNOW HOW BUT THEY FOUND ME,4010,61,457715
+3011,Melvins,4011,49,237719
+3012,The Outlaws,4012,46,196790
+3013,New Order,4013,65,553485
+3014,The Flaming Lips,4014,55,335777
+3015,Gordon Lightfoot,4015,60,435615
+3016,Fine Young Cannibals,4016,60,435606
+3017,Violent Femmes,4017,57,373684
+3018,Mastodon,4018,59,414256
+3019,Meat Puppets,4019,48,223495
+3020,Spoon,4020,59,414260
+3021,OK Go,4021,56,354400
+3022,Counting Crows,4022,67,606019
+3023,Jim Croce,4023,63,504111
+3024,Doves,4024,49,237724
+3025,Jimmy Page,4025,44,172340
+3026,Inhaler,4026,55,335809
+3027,Alex Turner,4027,63,504071
+3028,James,4028,59,414261
+3029,Mick Jagger,4029,56,354411
+3030,Tommy James  The Shondells,4030,56,354416
+3031,Modest Mouse,4031,63,504073
+3032,Thirty Seconds To Mars,4032,66,579400
+3033,Billy Joel,4033,76,883730
+3034,Squeeze,4034,53,300575
+3035,Get Scared,4035,59,414280
+3036,Goodbye June,4036,47,209876
+3037,Men At Work,4037,64,528404
+3038,The Killers,4038,77,919055
+3039,Fall Out Boy,4039,77,919047
+3040,Richard Ashcroft,4040,50,252546
+3041,John Fogerty,4041,55,335787
+3042,L.A. Guns,4042,47,209867
+3043,Duran Duran,4043,67,606054
+3044,The Bravery,4044,54,317882
+3045,TV On The Radio,4045,56,354395
+3046,Status Quo,4046,60,435621
+3047,Broken Bells,4047,59,414280
+3048,Meat Loaf,4048,63,504103
+3049,TOTO,4049,72,751710
+3050,MGMT,4050,74,815979
+3051,Steel Panther,4051,52,283932
+3052,The Jesus and Mary Chain,4052,52,283926
+3053,Sleeping With Sirens,4053,64,528439
+3054,The Snuts,4054,52,283935
+3055,Kings of Leon,4055,73,783433
+3056,Albert Hammond Jr,4056,49,237699
+3057,The Wrecks,4057,58,393644
+3058,Dead Poet Society,4058,52,283962
+3059,Bloc Party,4059,60,435648
+3060,Extreme,4060,61,457715
+3061,Korn,4061,74,815987
+3062,Suede,4062,51,267926
+3063,Yusuf  Cat Stevens,4063,68,633521
+3064,Creed,4064,66,579365
+3065,Wishbone Ash,4065,43,160891
+3066,Fitz and The Tantrums,4066,66,579369
+3067,Helloween,4067,58,393617
+3068,Slaughter,4068,45,184291
+3069,Atlanta Rhythm Section,4069,50,252546
+3070,Deftones,4070,76,883780
+3071,Sex Pistols,4071,57,373657
+3072,Chickenfoot,4072,44,172335
+3073,Testament,4073,55,335811
+3074,Machine Head,4074,61,457736
+3075,Porno for Pyros,4075,44,172325
+3076,Pierce The Veil,4076,72,751737
+3077,Black Joe Lewis  The Honeybears,4077,44,172344
+3078,Blackberry Smoke,4078,55,335778
+3079,The Glorious Sons,4079,53,300591
+3080,Fugazi,4080,54,317895
+3081,The AllAmerican Rejects,4081,66,579392
+3082,Them,4082,53,300576
+3083,Liam Gallagher,4083,59,414261
+3084,blink182,4084,76,883793
+3085,The Romantics,4085,57,373684
+3086,Joywave,4086,56,354377
+3087,Sugar Ray,4087,60,435624
+3088,Winger,4088,47,209902
+3089,Living Colour,4089,53,300597
+3090,Maximo Park,4090,50,252527
+3091,Bring Me The Horizon,4091,77,919028
+3092,Yellowcard,4092,62,480560
+3093,L7,4093,47,209900
+3094,American Authors,4094,66,579373
+3095,My Morning Jacket,4095,55,335786
+3096,The Fixx,4096,50,252529
+3097,Bon Jovi,4097,77,919070
+3098,Queen,4098,84,1192498
+3099,Pavement,4099,57,373659
+3100,The Georgia Satellites,4100,50,252535
+3101,Marcy Playground,4101,58,393619
+3102,Alien Ant Farm,4102,60,435640
+3103,my bloody valentine,4103,57,373651
+3104,Godsmack,4104,66,579409
+3105,Good Charlotte,4105,65,553508
+3106,Fuel,4106,57,373640
+3107,James Taylor,4107,67,606062
+3108,Bruce Dickinson,4108,50,252523
+3109,YONAKA,4109,53,300609
+3110,Manowar,4110,55,335820
+3111,Mudhoney,4111,44,172316
+3112,Bowling For Soup,4112,61,457719
+3113,Nathaniel Rateliff  The Night Sweats,4113,61,457733
+3114,DON BROCO,4114,53,300596
+3115,Portugal. The Man,4115,64,528415
+3116,Scott Weiland,4116,29,49637
+3117,The Used,4117,63,504072
+3118,Black Stone Cherry,4118,55,335799
+3119,Tom Morello,4119,54,317868
+3120,The Amazons,4120,48,223520
+3121,Jamie T,4121,58,393629
+3122,Eddie Vedder,4122,61,457685
+3123,System Of A Down,4123,77,919010
+3124,AFI,4124,61,457708
+3125,Snow Patrol,4125,67,606044
+3126,Clutch,4126,56,354401
+3127,Weathers,4127,58,393625
+3128,Don McLean,4128,63,504096
+3129,The Psychedelic Furs,4129,54,317865
+3130,Slowdive,4130,58,393636
+3131,Falling In Reverse,4131,70,690919
+3132,The Story So Far,4132,58,393618
+3133,Gojira,4133,63,504074
+3134,Dinosaur Jr.,4134,51,267919
+3135,Declan McKenna,4135,66,579401
+3136,Arrested Youth,4136,56,354396
+3137,The Mars Volta,4137,53,300586
+3138,Midnight Oil,4138,59,414271
+3139,The Night Caf,4139,48,223534
+3140,The Coral,4140,53,300580
+3141,Elliott Smith,4141,62,480553
+3142,Staind,4142,63,504100
+3143,Sum 41,4143,70,690907
+3144,Dream Theater,4144,60,435615
+3145,Joan Jett  the Blackhearts,4145,64,528435
+3146,Death,4146,55,335827
+3147,HardFI,4147,45,184276
+3148,Arcade Fire,4148,67,606072
+3149,Car Seat Headrest,4149,61,457723
+3150,Mudvayne,4150,60,435647
+3151,Hoobastank,4151,65,553533
+3152,Biffy Clyro,4152,60,435617
+3153,Blood Red Shoes,4153,44,172314
+3154,DEVO,4154,55,335782
+3155,Greta Van Fleet,4155,68,633549
+3156,Brick  Mortar,4156,53,300597
+3157,The Score,4157,70,690909
+3158,Stevie Nicks,4158,65,553490
+3159,Adam Jensen,4159,59,414243
+3160,Marilyn Manson,4160,69,661831
+3161,Kurt Cobain,4161,52,283955
+3162,Black Veil Brides,4162,62,480534
+3163,Misfits,4163,63,504100
+3164,LCD Soundsystem,4164,58,393633
+3165,Stand Atlantic,4165,56,354375
+3166,Houndmouth,4166,58,393643
+3167,Twenty One Pilots,4167,80,1030436
+3168,The Pale White,4168,40,129632
+3169,Imagine Dragons,4169,88,1370694
+3170,Arctic Monkeys,4170,86,1279575
+3171,Shaun Davey,4171,28,44695
+3172,WEISS,4172,55,335830
+3173,Ferreck Dawn,4173,56,354373
+3174,Disciples,4174,62,480528
+3175,Low Steppa,4175,52,283961
+3176,Kideko,4176,53,300593
+3177,Mark Knight,4177,56,354377
+3178,Secondcity,4178,53,300606
+3179,Solardo,4179,55,335791
+3180,OFFAIAH,4180,45,184286
+3181,Gorgon City,4181,63,504066
+3182,Shift K3Y,4182,58,393619
+3183,Philip George,4183,53,300587
+3184,Just Kiddin,4184,56,354384
+3185,Mike Mago,4185,47,209869
+3186,Tough Love,4186,41,139530
+3187,Sonny Fodera,4187,63,504104
+3188,DJ S.K.T,4188,45,184316
+3189,Illyus  Barrientos,4189,44,172326
+3190,Blinkie,4190,53,300593
+3191,Redlight,4191,47,209881
+3192,M22,4192,55,335777
+3193,Noizu,4193,58,393609
+3194,MK,4194,65,553511
+3195,Mat.Joe,4195,47,209862
+3196,Route 94,4196,57,373638
+3197,Leftwing  Kody,4197,46,196794
+3198,Karen Harding,4198,58,393597
+3199,Martin Ikin,4199,51,267912
+3200,Hannah Wants,4200,45,184309
+3201,Paul Woolford,4201,60,435605
+3202,EDX,4202,57,373672
+3203,Jay Pryor,4203,55,335814
+3204,Blonde,4204,51,267940
+3205,Dusky,4205,46,196812
+3206,Hot Since 82,4206,51,267952
+3207,Michael Calfan,4207,59,414241
+3208,CID,4208,57,373641
+3209,Darius Syrossian,4209,45,184288
+3210,Eli Brown,4210,53,300580
+3211,Redondo,4211,52,283970
+3212,Joe Stone,4212,55,335815
+3213,The Magician,4213,61,457719
+3214,Jack Wins,4214,53,300577
+3215,Duke Dumont,4215,65,553483
+3216,Sammy Porter,4216,43,160863
+3217,Dombresky,4217,52,283933
+3218,Huxley,4218,37,102694
+3219,Patrick Topping,4219,48,223531
+3220,Oliver Heldens,4220,69,661848
+3221,Nathan Dawe,4221,68,633539
+3222,Friend Within,4222,44,172325
+3223,Mr. Belt  Wezol,4223,53,300579
+3224,Anton Powers,4224,55,335798
+3225,Shadow Child,4225,45,184301
+3226,Eats Everything,4226,47,209897
+3227,Jethro Heston,4227,52,283949
+3228,Armand Van Helden,4228,62,480505
+3229,Lee Foss,4229,53,300608
+3230,Eden Prince,4230,52,283968
+3231,Tom Zanetti,4231,56,354393
+3232,Maur,4232,52,283934
+3233,PAX,4233,48,223515
+3234,Calippo,4234,45,184311
+3235,Will Clarke,4235,48,223500
+3236,KC Lights,4236,55,335805
+3237,D.O.D,4237,61,457733
+3238,Josh Butler,4238,47,209858
+3239,TCTS,4239,53,300577
+3240,CamelPhat,4240,64,528431
+3241,GotSome,4241,36,94618
+3242,Chris Lake,4242,61,457683
+3243,Tobtok,4243,54,317872
+3244,Ryan Blyth,4244,39,120192
+3245,Chris Lorenzo,4245,63,504098
+3246,Alan Fitzpatrick,4246,47,209860
+3247,Biscits,4247,59,414272
+3248,KREAM,4248,61,457731
+3249,Riva Starr,4249,50,252535
+3250,CHANEY,4250,45,184296
+3251,Alex Adair,4251,52,283950
+3252,Tchami,4252,61,457686
+3253,DJ Zinc,4253,48,223510
+3254,John Summit,4254,65,553503
+3255,Jamie Jones,4255,54,317853
+3256,Riton,4256,68,633542
+3257,ESSEL,4257,46,196827
+3258,XYconstant,4258,44,172348
+3259,Navos,4259,61,457718
+3260,Alex Hobson,4260,46,196803
+3261,Zac Samuel,4261,54,317869
+3262,Hot Natured,4262,45,184317
+3263,Max Chapman,4263,38,111212
+3264,Kisch,4264,44,172342
+3265,Tensnake,4265,57,373675
+3266,Shiba San,4266,44,172306
+3267,Chocolate Puma,4267,47,209890
+3268,Felon,4268,45,184300
+3269,Dennis Ferrer,4269,47,209881
+3270,220 KID,4270,63,504087
+3271,SNBRN,4271,52,283937
+3272,Franky Wah,4272,53,300582
+3273,Prok  Fitch,4273,34,79788
+3274,Beave,4274,47,209872
+3275,Green Velvet,4275,49,237709
+3276,Martin Solveig,4276,65,553498
+3277,Wh0,4277,48,223501
+3278,Fedde Le Grand,4278,62,480555
+3279,J. Worra,4279,54,317871
+3280,Bissett,4280,46,196814
+3281,Dale Howard,4281,45,184296
+3282,Jess Bays,4282,51,267934
+3283,Sosa UK,4283,47,209883
+3284,Franky Rizardo,4284,47,209883
+3285,Majestic,4285,66,579404
+3286,Me  My Toothbrush,4286,43,160881
+3287,Andrea Oliva,4287,44,172307
+3288,Shane Codd,4288,57,373685
+3289,Alex Preston,4289,40,129638
+3290,AlunaGeorge,4290,62,480526
+3291,Joshwa,4291,54,317893
+3292,Croatia Squad,4292,45,184314
+3293,Luca Debonaire,4293,41,139556
+3294,Ben Hemsley,4294,47,209880
+3295,Punctual,4295,58,393634
+3296,PAWSA,4296,50,252539
+3297,Firebeatz,4297,56,354420
+3298,Robbie Rivera,4298,46,196833
+3299,CALVO,4299,53,300611
+3300,Black Saint,4300,34,79777
+3301,Catz n Dogz,4301,45,184282
+3302,Chapter  Verse,4302,48,223506
+3303,Kokiri,4303,37,102696
+3304,Example,4304,59,414279
+3305,M.O,4305,50,252526
+3306,Sidney Charles,4306,38,111201
+3307,Axwell,4307,60,435620
+3308,ATFC,4308,47,209863
+3309,Ewan McVicar,4309,53,300580
+3310,THAT KIND,4310,49,237743
+3311,Tom Budin,4311,46,196828
+3312,Curbi,4312,57,373644
+3313,Earth n Days,4313,43,160892
+3314,Sigma,4314,61,457712
+3315,LP Giobbi,4315,61,457738
+3316,Lika Morgan,4316,46,196814
+3317,Justin Martin,4317,41,139524
+3318,JADED,4318,52,283945
+3319,James Hype,4319,75,849424
+3320,Piero Pirupa,4320,53,300615
+3321,Prospa,4321,47,209883
+3322,JYYE,4322,46,196820
+3323,FooR,4323,45,184313
+3324,Eli  Fur,4324,54,317856
+3325,Walker  Royce,4325,45,184316
+3326,DJ Fresh,4326,59,414277
+3327,Claude VonStroke,4327,44,172327
+3328,Crazibiza,4328,44,172316
+3329,David Zowie,4329,46,196813
+3330,Laidback Luke,4330,61,457702
+3331,Mihalis Safras,4331,35,86992
+3332,Shermanology,4332,57,373692
+3333,The Deepshakerz,4333,31,60556
+3334,MistaJam,4334,57,373639
+3335,NVOY,4335,29,49625
+3336,Belters Only,4336,61,457709
+3337,Hayden James,4337,60,435631
+3338,Kyle Watson,4338,49,237699
+3339,Max Styler,4339,46,196791
+3340,Yousef,4340,35,86982
+3341,AC Slater,4341,52,283967
+3342,Maceo Plex,4342,52,283965
+3343,Jonasu,4343,58,393621
+3344,Autograf,4344,55,335809
+3345,Audiojack,4345,34,79782
+3346,Todd Terry,4346,47,209855
+3347,Kyle Walker,4347,45,184316
+3348,SIDEPIECE,4348,62,480528
+3349,Dom Dolla,4349,61,457726
+3350,Harry Romero,4350,41,139530
+3351,Don Diablo,4351,67,606079
+3352,BURNS,4352,58,393593
+3353,AmyElle,4353,42,149962
+3354,Deeper Purpose,4354,42,149978
+3355,DLMT,4355,50,252537
+3356,David Penn,4356,52,283936
+3357,Dennis Cruz,4357,48,223534
+3358,MOGUAI,4358,56,354415
+3359,Pep  Rash,4359,39,120195
+3360,Wiley,4360,57,373692
+3361,Dosem,4361,42,149965
+3362,Madison Mars,4362,50,252518
+3363,Steff da Campo,4363,54,317880
+3364,Bougenvilla,4364,44,172336
+3365,Sunnery James  Ryan Marciano,4365,54,317889
+3366,NERVO,4366,57,373681
+3367,Angelo Ferreri,4367,48,223524
+3368,Ben Delay,4368,35,86978
+3369,Dillon Nathaniel,4369,36,94610
+3370,Cristoph,4370,53,300571
+3371,Michael Bibi,4371,49,237699
+3372,Cedric Gervais,4372,63,504122
+3373,Bingo Players,4373,59,414251
+3374,Dallerium,4374,47,209893
+3375,Maxinne,4375,31,60550
+3376,Maya Jane Coles,4376,47,209897
+3377,Alex Mills,4377,48,223491
+3378,Milk  Sugar,4378,47,209883
+3379,Qubiko,4379,40,129611
+3380,Claptone,4380,65,553539
+3381,Voost,4381,47,209892
+3382,Mella Dee,4382,46,196794
+3383,Nora En Pure,4383,62,480525
+3384,Saison,4384,43,160898
+3385,Richard Grey,4385,40,129627
+3386,Tinie Tempah,4386,63,504106
+3387,Mason Maynard,4387,32,66566
+3388,Amine Edge  DANCE,4388,36,94610
+3389,Mike Williams,4389,60,435660
+3390,Le Youth,4390,56,354408
+3391,Damian Harrison,4391,47,209899
+3392,John Dahlbck,4392,50,252545
+3393,Anto,4393,35,86983
+3394,Icarus,4394,47,209887
+3395,Elderbrook,4395,68,633504
+3396,Latmun,4396,32,66580
+3397,Sons Of Maria,4397,51,267949
+3398,Lucas  Steve,4398,64,528438
+3399,The Shapeshifters,4399,52,283959
+3400,Miane,4400,44,172306
+3401,Ben Rainey,4401,46,196816
+3402,ANOTR,4402,45,184317
+3403,Sander van Doorn,4403,51,267928
+3404,David Tort,4404,40,129639
+3405,JACK,4405,42,149943
+3406,Nicky Romero,4406,64,528430
+3407,Yves V,4407,62,480557
+3408,GW Harrison,4408,30,54905
+3409,Nic Fanciulli,4409,45,184312
+3410,Endor,4410,57,373639
+3411,Richy Ahmed,4411,29,49645
+3412,Sllash  Doppe,4412,40,129607
+3413,Syn Cole,4413,61,457730
+3414,Steve Angello,4414,56,354400
+3415,Anabel Englund,4415,54,317844
+3416,Welshy,4416,50,252504
+3417,Matroda,4417,56,354407
+3418,MOTi,4418,65,553481
+3419,Tuff London,4419,29,49645
+3420,Ango Tamarin,4420,26,35842
+3421,Jodie Harsh,4421,47,209865
+3422,Detlef,4422,35,86984
+3423,Kings Of Tomorrow,4423,44,172316
+3424,Butch,4424,39,120198
+3425,The Him,4425,56,354397
+3426,DONT BLINK,4426,38,111206
+3427,NightFunk,4427,39,120165
+3428,Ejeca,4428,37,102677
+3429,Eric Prydz,4429,63,504077
+3430,Danny Howard,4430,45,184305
+3431,Wilkinson,4431,63,504113
+3432,Roberto Surace,4432,41,139543
+3433,HILO,4433,53,300591
+3434,Chus  Ceballos,4434,36,94611
+3435,Pryda,4435,44,172334
+3436,John Gibbons,4436,49,237720
+3437,Duck Sauce,4437,55,335809
+3438,Amtrac,4438,51,267924
+3439,Ninetoes,4439,45,184303
+3440,KDA,4440,44,172306
+3441,Eddie Thoneick,4441,35,86996
+3442,Lee Walker,4442,39,120165
+3443,El Profesor,4443,52,283967
+3444,Purple Disco Machine,4444,72,751718
+3445,Koen Groeneveld,4445,29,49640
+3446,The Prince Karma,4446,50,252506
+3447,John Monkman,4447,28,44700
+3448,KANT,4448,42,149956
+3449,Luke Fono,4449,22,21796
+3450,Infinity Ink,4450,38,111212
+3451,Breach,4451,36,94631
+3452,Muzzaik,4452,27,40117
+3453,Carl Cox,4453,53,300607
+3454,Antonio Giacca,4454,37,102697
+3455,Noisy Bears,4455,13,4574
+3456,Wolfgang Gartner,4456,46,196811
+3457,Jerome Sydenham,4457,37,102679
+3458,The Alexsander,4458,24,28244
+3459,99 Souls,4459,45,184309
+3460,Four Tet,4460,58,393591
+3461,Moderat,4461,57,373669
+3462,Kid Loco,4462,44,172346
+3463,Modeselektor,4463,47,209855
+3464,Tlpopmusik,4464,48,223525
+3465,Ryksopp,4465,62,480529
+3466,trentemller,4466,47,209881
+3467,Sofa Surfers,4467,44,172314
+3468,UNKLE,4468,50,252505
+3469,Caribou,4469,56,354377
+3470,Nightmares On Wax,4470,55,335803
+3471,Lemon Jelly,4471,47,209856
+3472,Underworld,4472,55,335790
+3473,Groove Armada,4473,58,393590
+3474,Blue States,4474,41,139553
+3475,Tosca,4475,44,172337
+3476,Zero 7,4476,57,373643
+3477,GusGus,4477,44,172330
+3478,Tricky,4478,50,252547
+3479,Bent,4479,45,184317
+3480,Boards of Canada,4480,55,335815
+3481,Weval,4481,47,209863
+3482,Bonobo,4482,63,504116
+3483,Jon Kennedy,4483,48,223523
+3484,Air,4484,59,414284
+3485,Kruder  Dorfmeister,4485,44,172341
+3486,Goldfrapp,4486,51,267925
+3487,Daniel Avery,4487,44,172340
+3488,Thievery Corporation,4488,59,414256
+3489,Lamb,4489,44,172316
+3490,Massive Attack,4490,62,480509
+3491,Max Cooper,4491,47,209883
+3492,Orbital,4492,50,252509
+3493,Amon Tobin,4493,45,184314
+3494,Daphni,4494,44,172311
+3495,Morcheeba,4495,59,414279
+3496,The Dining Rooms,4496,45,184278
+3497,Simian Mobile Disco,4497,43,160882
+3498,Death In Vegas,4498,43,160891
+3499,DJ Koze,4499,52,283962
+3500,The Herbaliser,4500,47,209899
+3501,Boozoo Bajou,4501,48,223522
+3502,Apparat,4502,48,223515
+3503,Kelly Lee Owens,4503,44,172328
+3504,Funki Porcini,4504,43,160875
+3505,Aim,4505,44,172328
+3506,Booka Shade,4506,51,267916
+3507,Hot Chip,4507,58,393636
+3508,Rival Consoles,4508,45,184276
+3509,Mr. Scruff,4509,45,184290
+3510,Jon Hopkins,4510,56,354415
+3511,Moloko,4511,53,300569
+3512,Burial,4512,49,237748
+3513,Joe Goddard,4513,48,223502
+3514,Romare,4514,50,252513
+3515,Martina TopleyBird,4515,43,160896
+3516,Sneaker Pimps,4516,47,209896
+3517,Wax Tailor,4517,51,267908
+3518,DJ Cam,4518,44,172342
+3519,John Talabot,4519,39,120188
+3520,Mount Kimbie,4520,51,267938
+3521,Hercules  Love Affair,4521,46,196798
+3522,Flunk,4522,42,149960
+3523,Portishead,4523,60,435613
+3524,Fischerspooner,4524,42,149967
+3525,Pantha Du Prince,4525,37,102692
+3526,9 Lazy 9,4526,44,172322
+3527,Dark Sky,4527,40,129631
+3528,WhoMadeWho,4528,54,317871
+3529,Leon Vynehall,4529,44,172309
+3530,Floating Points,4530,48,223528
+3531,Quantic,4531,59,414243
+3532,Nicolas Jaar,4532,52,283923
+3533,Hidden Orchestra,4533,44,172314
+3534,The Knife,4534,49,237706
+3535,Smoke City,4535,44,172329
+3536,Sbastien Tellier,4536,49,237711
+3537,Soulwax,4537,51,267912
+3538,Leftfield,4538,46,196797
+3539,Yppah,4539,45,184314
+3540,TM Juke,4540,45,184301
+3541,Kiasmos,4541,46,196825
+3542,Nathan Fake,4542,33,72972
+3543,Pional,4543,43,160902
+3544,Lindstrm,4544,40,129625
+3545,Christian Lffler,4545,54,317863
+3546,The Chemical Brothers,4546,61,457688
+3547,Kosheen,4547,43,160892
+3548,Jacques Greene,4548,40,129620
+3549,Vitalic,4549,49,237713
+3550,Blockhead,4550,47,209892
+3551,Jamie xx,4551,60,435605
+3552,Dauwd,4552,37,102681
+3553,George FitzGerald,4553,49,237714
+3554,Clark,4554,42,149942
+3555,Little Dragon,4555,62,480542
+3556,The Orb,4556,44,172341
+3557,Stereo MCs,4557,48,223527
+3558,DjRUM,4558,39,120163
+3559,Axel Boman,4559,41,139529
+3560,Crazy P,4560,50,252530
+3561,Koop,4561,48,223520
+3562,Totally Enormous Extinct Dinosaurs,4562,53,300603
+3563,Rae  Christian,4563,44,172345
+3564,Hooverphonic,4564,52,283952
+3565,Plaid,4565,39,120197
+3566,St Germain,4566,51,267938
+3567,Tiga,4567,46,196814
+3568,Waldeck,4568,55,335826
+3569,DJ Krush,4569,41,139532
+3570,Siriusmo,4570,45,184284
+3571,Risn Murphy,4571,52,283950
+3572,Junior Boys,4572,36,94640
+3573,William Orbit,4573,48,223513
+3574,Digitalism,4574,48,223501
+3575,Actress,4575,43,160875
+3576,Up Bustle  Out,4576,38,111215
+3577,HAAi,4577,50,252519
+3578,Archive,4578,47,209900
+3579,Cassius,4579,48,223501
+3580,The Future Sound Of London,4580,40,129600
+3581,Against All Logic,4581,43,160890
+3582,Fila Brazillia,4582,35,86994
+3583,The Field,4583,34,79782
+3584,RJD2,4584,49,237737
+3585,Fluke,4585,41,139544
+3586,DePhazz,4586,44,172330
+3587,Charlotte Gainsbourg,4587,46,196834
+3588,Guts,4588,56,354401
+3589,Nosaj Thing,4589,46,196793
+3590,xyz,4590,44,172318
+3591,Joy Orbison,4591,43,160902
+3592,Agoria,4592,48,223530
+3593,The Avalanches,4593,57,373688
+3594,Rone,4594,46,196804
+3595,Terranova,4595,31,60560
+3596,Yonderboi,4596,40,129625
+3597,Ross from Friends,4597,47,209892
+3598,Everything But The Girl,4598,55,335780
+3599,DARKSIDE,4599,44,172304
+3600,Nearly God,4600,28,44714
+3601,David Holmes,4601,43,160870
+3602,Miss Kittin,4602,45,184313
+3603,Cut Copy,4603,50,252528
+3604,Thom Yorke,4604,57,373678
+3605,Emancipator,4605,56,354383
+3606,Autechre,4606,41,139524
+3607,Elder Island,4607,49,237702
+3608,DAVID AUGUST,4608,45,184293
+3609,Maribou State,4609,62,480512
+3610,Mo Horizons,4610,46,196798
+3611,Gold Panda,4611,38,111220
+3612,Todd Terje,4612,46,196806
+3613,Andy Stott,4613,38,111214
+3614,Skalpel,4614,38,111216
+3615,Radio Citizen,4615,42,149941
+3616,SBTRKT,4616,50,252545
+3617,Bjrk,4617,62,480509
+3618,Elsiane,4618,36,94611
+3619,Session Victim,4619,45,184299
+3620,Faithless,4620,59,414273
+3621,Overmono,4621,44,172327
+3622,Lemongrass,4622,45,184315
+3623,Fujiya  Miyagi,4623,42,149982
+3624,Kinobe,4624,45,184305
+3625,Lone,4625,46,196816
+3626,Belleruche,4626,47,209877
+3627,Gidge,4627,41,139532
+3628,Teebs,4628,47,209889
+3629,Supreme Beings of Leisure,4629,33,72963
+3630,HVOB,4630,49,237711
+3631,Dzihan  Kamien,4631,39,120177
+3632,Propellerheads,4632,43,160887
+3633,Lusine,4633,37,102712
+3634,The Rapture,4634,46,196829
+3635,Squarepusher,4635,44,172314
+3636,Seb Wildblood,4636,46,196810
+3637,Catching Flies,4637,55,335805
+3638,Oneohtrix Point Never,4638,49,237732
+3639,Chaos In The CBD,4639,45,184291
+3640,Metronomy,4640,61,457731
+3641,Fever Ray,4641,49,237711
+3642,Federico Aubele,4642,45,184304
+3643,Warpaint,4643,52,283921
+3644,Kollektiv Turmstrasse,4644,46,196791
+3645,Gotan Project,4645,51,267947
+3646,Beth Gibbons,4646,50,252521
+3647,Ladytron,4647,50,252541
+3648,Ulrich Schnauss,4648,39,120168
+3649,Aphex Twin,4649,61,457684
+3650,Portico Quartet,4650,45,184284
+3651,The Juan Maclean,4651,35,86994
+3652,Extrawelt,4652,41,139543
+3653,Dominik Eulberg,4653,42,149957
+3654,Ancient Astronauts,4654,45,184282
+3655,Lapalux,4655,43,160866
+3656,Howling,4656,47,209891
+3657,Bomb The Bass,4657,39,120193
+3658,Recondite,4658,40,129603
+3659,Emilana Torrini,4659,48,223532
+3660,Moodymann,4660,45,184295
+3661,Tourist,4661,55,335825
+3662,Yuksek,4662,49,237735
+3663,Bicep,4663,61,457692
+3664,Basement Jaxx,4664,55,335822
+3665,Laurence Guy,4665,46,196806
+3666,James Holden,4666,31,60559
+3667,tienne de Crcy,4667,44,172304
+3668,DJ Seinfeld,4668,48,223524
+3669,Nostalgia 77,4669,45,184305
+3670,Felix Da Housecat,4670,47,209874
+3671,Nouvelle Vague,4671,53,300606
+3672,OFlynn,4672,43,160877
+3673,iamamiwhoami,4673,42,149940
+3674,Holy Fuck,4674,44,172347
+3675,Red Snapper,4675,31,60552
+3676,Kid Koala,4676,49,237744
+3677,Bibio,4677,52,283941
+3678,Midnight Juggernauts,4678,32,66580
+3679,Ziq,4679,38,111213
+3680,Laika,4680,27,40111
+3681,Susumu Yokota,4681,41,139563
+3682,DJ Vadim,4682,42,149980
+3683,HNNY,4683,52,283952
+3684,Justice,4684,58,393630
+3685,Mano Le Tough,4685,41,139523
+3686,Stimming,4686,40,129636
+3687,I Monster,4687,56,354387
+3688,Austra,4688,41,139554
+3689,Stephan Bodzin,4689,48,223504
+3690,You Man,4690,44,172311
+3691,Shlohmo,4691,47,209872
+3692,Indian Wells,4692,30,54918
+3693,JayJay Johanson,4693,45,184313
+3694,Jesper Ryom,4694,44,172311
+3695,The Quantic Soul Orchestra,4695,42,149981
+3696,Nils Frahm,4696,59,414289
+3697,Tim Hecker,4697,42,149959
+3698,808 State,4698,43,160868
+3699,Alif Tree,4699,35,87001
+3700,Nickodemus,4700,45,184315
+3701,CSS,4701,42,149963
+3702,The Presets,4702,49,237725
+3703,The Whitest Boy Alive,4703,51,267951
+3704,Ellen Allien,4704,37,102693
+3705,Emika,4705,40,129635
+3706,Nitin Sawhney,4706,42,149972
+3707,The Horrors,4707,46,196829
+3708,Saint Etienne,4708,44,172316
+3709,Shire T,4709,40,129611
+3710,Esthero,4710,39,120184
+3711,Lovage,4711,36,94623
+3712,Charlotte Adigry,4712,44,172333
+3713,Birdy Nam Nam,4713,50,252525
+3714,Yelle,4714,45,184290
+3715,New Young Pony Club,4715,35,86981
+3716,Felix Laband,4716,43,160889
+3717,Holy Ghost,4717,40,129624
+3718,Kraak  Smaak,4718,51,267921
+3719,The Crystal Method,4719,50,252521
+3720,Bat For Lashes,4720,45,184308
+3721,Erlend ye,4721,47,209888
+3722,Tommy Guerrero,4722,49,237723
+3723,Moby,4723,67,606025
+3724,Nathaniel Merriweather,4724,42,149962
+3725,Kalabrese,4725,45,184279
+3726,Monkey Safari,4726,54,317874
+3727,Koreless,4727,33,72991
+3728,Brazilian Girls,4728,40,129636
+3729,Barry Cant Swim,4729,52,283940
+3730,Chromatics,4730,53,300591
+3731,Robot Koch,4731,48,223528
+3732,Little People,4732,42,149960
+3733,Two Shell,4733,38,111218
+3734,Forest Swords,4734,35,87006
+3735,Ben Lukas Boysen,4735,42,149945
+3736,Peace Orchestra,4736,29,49632
+3737,Alice Russell,4737,49,237742
+3738,Lord Echo,4738,48,223534
+3739,Fun Lovin Criminals,4739,46,196831
+3740,HLOS,4740,41,139563
+3741,Coldcut,4741,40,129622
+3742,Sofia Kourtesis,4742,46,196788
+3743,Matthew Dear,4743,37,102701
+3744,The Cinematic Orchestra,4744,62,480551
+3745,Zola Blood,4745,44,172340
+3746,Panda Bear,4746,53,300571
+3747,Tirzah,4747,44,172331
+3748,BitterSweet,4748,37,102705
+3749,SebastiAn,4749,44,172321
+3750,Rob D,4750,2,20
+3751,Joris Delacroix,4751,48,223528
+3752,Klsch,4752,52,283939
+3753,Para One,4753,34,79767
+3754,Mandalay,4754,31,60573
+3755,Oliver Koletzki,4755,54,317858
+3756,Nicola Conte,4756,45,184317
+3757,LA Priest,4757,43,160876
+3758,Timo Maas,4758,41,139535
+3759,Boys Noize,4759,52,283970
+3760,Audio Bullys,4760,40,129621
+3761,Roots Manuva,4761,48,223502
+3762,Chinese Man,4762,51,267954
+3763,Greyboy,4763,44,172328
+3764,Roni Size,4764,41,139536
+3765,Lack Of Afro,4765,45,184304
+3766,Kasper Bjrke,4766,39,120188
+3767,Rodriguez Jr.,4767,46,196833
+3768,Uffie,4768,41,139548
+3769,Ishmael Ensemble,4769,40,129636
+3770,Scratch Massive,4770,41,139541
+3771,Loscil,4771,40,129603
+3772,Apollo 440,4772,44,172312
+3773,Stereolab,4773,51,267930
+3774,Kaitlyn Aurelia Smith,4774,41,139547
+3775,Telefon Tel Aviv,4775,31,60563
+3776,Flavien Berger,4776,45,184294
+3777,Olive,4777,39,120190
+3778,Polynation,4778,28,44709
+3779,Mint Royale,4779,40,129609
+3780,Django Django,4780,47,209891
+3781,Kavinsky,4781,60,435651
+3782,Jan Blomqvist,4782,57,373686
+3783,Zoot Woman,4783,35,87005
+3784,Shit Robot,4784,27,40114
+3785,YACHT,4785,41,139559
+3786,The Shoes,4786,39,120194
+3787,Throwing Snow,4787,33,72986
+3788,Laurent Garnier,4788,41,139548
+3789,Doctor Flake,4789,43,160867
+3790,Gui Boratto,4790,48,223525
+3791,A Forest Mighty Black,4791,35,86991
+3792,Thylacine,4792,50,252505
+3793,Tor,4793,44,172330
+3794,Protassov,4794,44,172342
+3795,French 79,4795,52,283960
+3796,Annie,4796,37,102704
+3797,Alpha,4797,14,5696
+3798,NTO,4798,57,373651
+3799,Logic1000,4799,47,209856
+3800,Klaxons,4800,51,267903
+3801,Bowery Electric,4801,36,94635
+3802,Sascha Funke,4802,35,86999
+3803,The Dynamics,4803,44,172304
+3804,Minus 8,4804,40,129623
+3805,Kid Francescoli,4805,56,354369
+3806,Stereoclip,4806,49,237716
+3807,Jai Paul,4807,46,196821
+3808,Finley Quaye,4808,46,196812
+3809,Paul Kalkbrenner,4809,63,504111
+3810,Joris Voorn,4810,53,300572
+3811,Miami Horror,4811,53,300608
+3812,DJ Food,4812,31,60557
+3813,TSHA,4813,57,373666
+3814,Grandbrothers,4814,44,172317
+3815,Connan Mockasin,4815,49,237703
+3816,The Black Dog,4816,33,72995
+3817,Rob Dougan,4817,38,111203
+3818,Fat Freddys Drop,4818,56,354394
+3819,Parra for Cuva,4819,57,373685
+3820,Peaches,4820,46,196826
+3821,Fort Romeau,4821,39,120194
+3822,Destroyer,4822,44,172321
+3823,Skye,4823,32,66566
+3824,The Bahama Soul Club,4824,43,160878
+3825,Robag Wruhme,4825,35,87003
+3826,Acid Pauli,4826,48,223513
+3827,Atoms For Peace,4827,42,149942
+3828,Cujo,4828,28,44711
+3829,Broadcast,4829,48,223525
+3830,Sola Rosa,4830,40,129627
+3831,The Go Team,4831,41,139560
+3832,Blonde Redhead,4832,49,237710
+3833,The Range,4833,36,94615
+3834,KH,4834,42,149977
+3835,Brian Eno,4835,59,414280
+3836,The Toxic Avenger,4836,48,223498
+3837,Afterlife,4837,43,160879
+3838,Deerhunter,4838,48,223500
+3839,Jazzanova,4839,41,139523
+3840,Animal Collective,4840,51,267923
+3841,Alan Braxe,4841,43,160900
+3842,Llorca,4842,38,111195
+3843,FC Kahuna,4843,38,111226
+3844,Tycho,4844,57,373687
+3845,Simian,4845,45,184299
+3846,Perfume Genius,4846,54,317844
+3847,Blue Foundation,4847,52,283954
+3848,Project Pablo,4848,39,120175
+3849,Goldie,4849,39,120166
+3850,Gabin,4850,44,172329
+3851,Agar Agar,4851,46,196814
+3852,Tom VR,4852,37,102698
+3853,SUUNS,4853,37,102712
+3854,The Beta Band,4854,43,160899
+3855,Jenny Hval,4855,36,94614
+3856,Us3,4856,44,172334
+3857,4hero,4857,41,139528
+3858,Grace Jones,4858,62,480542
+3859,Nicolas Godin,4859,37,102701
+3860,Robert Hood,4860,34,79795
+3861,Joey Beltram,4861,30,54921
+3862,Jeff Mills,4862,32,66589
+3863,Planetary Assault Systems,4863,27,40105
+3864,Kenny Larkin,4864,24,28233
+3865,Juan Atkins,4865,26,35841
+3866,Underground Resistance,4866,24,28225
+3867,Galaxy 2 Galaxy,4867,27,40118
+3868,Drexciya,4868,32,66564
+3869,Octave One,4869,40,129613
+3870,Derrick May,4870,31,60555
+3871,Sterac,4871,18,12001
+3872,Dave Clarke,4872,28,44689
+3873,James Ruskin,4873,23,24885
+3874,Plastikman,4874,35,86993
+3875,Carl Craig,4875,38,111219
+3876,Scan 7,4876,19,14089
+3877,Kevin Saunderson,4877,35,86997
+3878,Blake Baxter,4878,23,24886
+3879,Infiniti,4879,12,3611
+3880,eDancer,4880,26,35849
+3881,Mark Broom,4881,41,139523
+3882,Aril Brikha,4882,25,31897
+3883,Terrence Dixon,4883,22,21793
+3884,Heiko Laux,4884,20,16409
+3885,Dave Angel,4885,15,6986
+3886,Surgeon,4886,24,28239
+3887,Suburban Knight,4887,12,3602
+3888,Aux 88,4888,17,10117
+3889,Slam,4889,33,72969
+3890,Dopplereffekt,4890,27,40097
+3891,The Advent,4891,25,31886
+3892,Cari Lekebusch,4892,23,24881
+3893,Maurizio,4893,22,21780
+3894,KHand,4894,25,31891
+3895,The Aztec Mystic,4895,13,4573
+3896,Vince Watson,4896,21,18982
+3897,DJ Rolando,4897,26,35846
+3898,Orlando Voorn,4898,16,8457
+3899,Thomas P. Heckmann,4899,27,40102
+3900,Anthony Shake Shakir,4900,1,3
+3901,Hardfloor,4901,29,49640
+3902,Claude Young,4902,23,24873
+3903,Cybotron,4903,28,44699
+3904,X102,4904,1,3
+3905,LFO,4905,31,60560
+3906,The Other People Place,4906,27,40113
+3907,M500,4907,0,0
+3908,The Martian,4908,0,0
+3909,Regis,4909,20,16411
+3910,Transllusion,4910,14,5695
+3911,Oscar Mulero,4911,27,40100
+3912,Mr. De,4912,27,40096
+3913,DJ 3000,4913,7,740
+3914,Chris Liebing,4914,37,102676
+3915,Ben Sims,4915,23,24863
+3916,Theo Parrish,4916,35,86997
+3917,Alexander Kowalski,4917,21,18964
+3918,Richie Hawtin,4918,37,102703
+3919,Dark Comedy,4919,1,4
+3920,Technasia,4920,35,86992
+3921,X101,4921,7,737
+3922,Dan Curtin,4922,8,1096
+3923,B12,4923,24,28231
+3924,Anthony Shakir,4924,2,22
+3925,Johannes Heil,4925,26,35851
+3926,Stacey Pullen,4926,17,10115
+3927,Dark Energy,4927,8,1091
+3928,Adam Beyer,4928,50,252507
+3929,Legowelt,4929,29,49647
+3930,Truncate,4930,33,72975
+3931,Mad Mike,4931,12,3602
+3932,Millsart,4932,0,0
+3933,Josh Wink,4933,32,66568
+3934,DJ Rush,4934,32,66578
+3935,Larry Heard,4935,35,86991
+3936,Shed,4936,28,44706
+3937,DJ Hell,4937,30,54914
+3938,Monobox,4938,10,2109
+3939,Gary Beck,4939,29,49634
+3940,Armando,4940,25,31875
+3941,69,4941,0,0
+3942,DJ Bone,4942,13,4573
+3943,Floorplan,4943,38,111210
+3944,Ron Trent,4944,36,94639
+3945,Christian Smith,4945,31,60557
+3946,Radio Slave,4946,35,87008
+3947,Sven Vth,4947,37,102704
+3948,DiegoMystick,4948,0,0
+3949,sun electric,4949,28,44693
+3950,Anthony Rother,4950,33,72980
+3951,Andre Holland,4951,4,145
+3952,Mathew Jonson,4952,32,66562
+3953,Joey Beltran,4953,0,0
+3954,PigDan,4954,41,139538
+3955,Mr. Fingers,4955,38,111200
+3956,Len Faki,4956,32,66583
+3957,Channel One,4957,18,11991
+3958,The Detroit Escalator Co.,4958,18,12000
+3959,John Tejada,4959,33,72996
+3960,Sean Deason,4960,2,21
+3961,The Infiltrator,4961,0,0
+3962,UMEK,4962,45,184318
+3963,Perception,4963,25,31886
+3964,Monolake,4964,27,40115
+3965,Shake,4965,22,21801
+3966,Cristian Vogel,4966,14,5689
+3967,Fabrice Lig,4967,6,468
+3968,AaronCarl,4968,0,0
+3969,Claro Intelecto,4969,25,31877
+3970,Phuture,4970,25,31882
+3971,Pfirter,4971,20,16410
+3972,System 7,4972,25,31899
+3973,Harvey McKay,4973,33,72968
+3974,Ben Klock,4974,32,66569
+3975,Future Beat Alliance,4975,7,736
+3976,Joseph Capriati,4976,34,79764
+3977,Arpanet,4977,17,10118
+3978,Function,4978,21,18966
+3979,Neil Landstrumm,4979,14,5694
+3980,Sleeparchive,4980,16,8463
+3981,Gaetano Parisio,4981,12,3604
+3982,Quince,4982,2,20
+3983,John Beltran,4983,31,60568
+3984,PanPot,4984,40,129605
+3985,Ricardo Villalobos,4985,31,60550
+3986,Scan X,4986,9,1545
+3987, Phase,4987,22,21790
+3988,Delano Smith,4988,25,31882
+3989,Omar S,4989,39,120176
+3990,Unknown Soldiers,4990,0,0
+3991,Two Lone Swordsmen,4991,29,49623
+3992,Yan Cook,4992,28,44702
+3993,Aaron Carl,4993,14,5688
+3994,DJ Shufflemaster,4994,5,275
+3995,Electric Soul,4995,6,468
+3996,CJ Bolland,4996,34,79797
+3997,Move D,4997,32,66571
+3998,R.tyme,4998,0,0
+3999,A Number Of Names,4999,15,6988
+4000,Mr. G,5000,29,49630
+4001,Lab Rat XL,5001,4,144
+4002,Steve Rachmad,5002,14,5687
+4003,Code 6,5003,1,3
+4004,Eddie Fowlkes,5004,13,4570
+4005,Deetron,5005,34,79773
+4006,Marco Carola,5006,34,79769
+4007,DJ T1000,5007,8,1094
+4008,Marco Bailey,5008,28,44699
+4009,Damon Wild,5009,7,740
+4010,DJ Emerson,5010,13,4565
+4011,A Guy Called Gerald,5011,21,18972
+4012,Model 500,5012,23,24870
+4013,UR,5013,6,468
+4014,Basic Channel,5014,24,28231
+4015,The Dust Brothers,5015,36,94621
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
