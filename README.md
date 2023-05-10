@@ -119,9 +119,13 @@ Overall, these strategies can help to further cement Spotify's position as a lea
 The objective of this system is to offer valuable insights and comprehension about the music present on the platform. This will help analysts in making well-informed decisions regarding music selection, marketing strategies, and other related areas. To conduct a comprehensive analysis and create insightful visual representations, we will merge different datasets from Kaggle to create the most appropriate dataset that includes all the required information.
 Through the visualisations we can state that the popularity for each genre is different for different parameters of a song. While a song might have high danceability, it might have low acousticness. This helps artists in understanding what kind of parameter a song needs to have to achieve the goal behind its creation. Following that, we also have information about the popularity of genres through time. This helps artists stay up-to-date with the listening habits of their audience and can therefore release more music of the liking of the audience. Our objectives to allow artists to be parallel users of the service and providing users functionality to create their own playlists have also been accomplished.
 The various advantages of this case study are:
+
 1)By providing an open space for music, we predict that more people will be willing to experiment with music.
+
 2)Creating playlists comes at an advantage of its own as it allows users easy accessibility to the music of their liking.
+
 3)Artists can identify the enjoyability of their music because of the analysis we performed on the various characteristics of the song.
+
 4)It helps artist understand the popularity of individual genres in the current scenario.
 
 
